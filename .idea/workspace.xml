@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/егкр-21-12-24/Task-5-19237.py" beforeDir="false" afterPath="$PROJECT_DIR$/егкр-21-12-24/Task-5-19237.py" afterDir="false" />
-    </list>
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-5 №19237" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,11 +75,29 @@
       <option name="project" value="LOCAL" />
       <updated>1735057558398</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="С функцией переода в 3ную сс">
+      <option name="closed" value="true" />
+      <created>1735058922696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735058922696</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задание-5 №19237">
+      <option name="closed" value="true" />
+      <created>1735059039616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735059039616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="С функцией переода в 3ную сс" />
+    <MESSAGE value="Задание-5 №19237" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-5 №19237" />
   </component>
 </project>
