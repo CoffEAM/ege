@@ -2,11 +2,13 @@ from itertools import product
 from string import ascii_uppercase
 alph = ascii_uppercase
 
+cnt = 0
 for i in range(1, 7):
-    for pos, val in enumerate(product(alph, repeat=i), start=1):
+    for val in product(alph, repeat=i):
         val = ''.join(val)
+        cnt += 1
         if val=='FEDABC':
-            print(pos)
+            print(cnt)
             break
 
 
