@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-1 №9770&#10;Симметричный граф" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-1 №17514" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735320947240</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Задание-1 №17514">
+      <option name="closed" value="true" />
+      <created>1735321249915</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735321249915</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -248,6 +256,7 @@
     <MESSAGE value="Задание-1 №4606" />
     <MESSAGE value="Задание-1 №9732&#10;Симметричный граф" />
     <MESSAGE value="Задание-1 №9770&#10;Симметричный граф" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-1 №9770&#10;Симметричный граф" />
+    <MESSAGE value="Задание-1 №17514" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-1 №17514" />
   </component>
 </project>
