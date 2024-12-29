@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-14 №18122&#10;Пробник КОМПЕГЭ Вариант 3" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-16 №18123&#10;Пробник КОМПЕГЭ Вариант 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,9 @@
     "Python.Task-12-19244.executor": "Run",
     "Python.Task-14-18122.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
+    "Python.Task-16-18123.executor": "Run",
     "Python.Task-16-19248.executor": "Run",
+    "Python.Task-17-18176.executor": "Run",
     "Python.Task-2-18162.executor": "Run",
     "Python.Task-23-19253.executor": "Run",
     "Python.Task-5-18119.executor": "Run",
@@ -68,11 +72,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/aziz0/OneDrive/Документы/Main/ege/другое/КИМ №25062004"
+    "last_opened_file_path": "C:/Users/aziz0/OneDrive/Документы/Main/ege/другое/КИМ №25062004/txt"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aziz0\OneDrive\Документы\Main\ege\другое\КИМ №25062004\txt" />
       <recent name="C:\Users\aziz0\OneDrive\Документы\Main\ege\другое\КИМ №25062004" />
     </key>
   </component>
@@ -284,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735488305193</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Задание-16 №18123&#10;Пробник КОМПЕГЭ Вариант 3">
+      <option name="closed" value="true" />
+      <created>1735488458329</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1735488458329</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -312,6 +325,7 @@
     <MESSAGE value="Задание-10 №18160&#10;Пробник КОМПЕГЭ Вариант 3" />
     <MESSAGE value="Задание-12 №18158&#10;Пробник КОМПЕГЭ Вариант 3" />
     <MESSAGE value="Задание-14 №18122&#10;Пробник КОМПЕГЭ Вариант 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-14 №18122&#10;Пробник КОМПЕГЭ Вариант 3" />
+    <MESSAGE value="Задание-16 №18123&#10;Пробник КОМПЕГЭ Вариант 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-16 №18123&#10;Пробник КОМПЕГЭ Вариант 3" />
   </component>
 </project>
