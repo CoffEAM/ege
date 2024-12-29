@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-1 №18164&#10;Пробник КОМПЕГЭ Вариант 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-2 №18162&#10;Пробник КОМПЕГЭ Вариант 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735485245366</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Задание-2 №18162&#10;Пробник КОМПЕГЭ Вариант 3">
+      <option name="closed" value="true" />
+      <created>1735486186987</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735486186987</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,6 +228,7 @@
     <MESSAGE value="Задание-1 №9770&#10;Симметричный граф" />
     <MESSAGE value="Задание-1 №17514" />
     <MESSAGE value="Задание-1 №18164&#10;Пробник КОМПЕГЭ Вариант 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-1 №18164&#10;Пробник КОМПЕГЭ Вариант 3" />
+    <MESSAGE value="Задание-2 №18162&#10;Пробник КОМПЕГЭ Вариант 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 №18162&#10;Пробник КОМПЕГЭ Вариант 3" />
   </component>
 </project>
