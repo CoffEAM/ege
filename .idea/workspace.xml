@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-22 №18255" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-23 №18267">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,7 @@
     "Python.Task-17-18257.executor": "Run",
     "Python.Task-2-18307.executor": "Run",
     "Python.Task-23-18267.executor": "Run",
+    "Python.Task-25-18298.executor": "Run",
     "Python.Task-5-18287.executor": "Run",
     "Python.Task-6-18311.executor": "Run",
     "Python.Task-8-18260.executor": "Run",
@@ -213,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736100335114</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Задание-23 №18267">
+      <option name="closed" value="true" />
+      <created>1736100797533</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1736100797533</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +254,7 @@
     <MESSAGE value="Задание-17 №18257" />
     <MESSAGE value="Задание-18 №18256" />
     <MESSAGE value="Задание-22 №18255" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-22 №18255" />
+    <MESSAGE value="Задание-23 №18267" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-23 №18267" />
   </component>
 </project>
