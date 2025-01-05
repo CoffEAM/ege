@@ -1,30 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-1-18164.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-1-18164.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-10-18160.docx" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-10-18160.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-12-18158.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-12-18158.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-14-18122.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-14-18122.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-16-18123.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-16-18123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-17-18176.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-17-18176.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-18-18182.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-18-18182.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-2-18162.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-2-18162.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-22-18183.xls" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-22-18183.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-23-18125.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-23-18125.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-24-18186.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-24-18186.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-3-18171.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-3-18171.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-5-18119.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-5-18119.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-6-18172.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-6-18172.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-8-18120.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-8-18120.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/Task-9-18174.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/Task-9-18174.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/txt/TXT-17-18176.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/txt/TXT-17-18176.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25062004/txt/TXT-24-18186.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25062004. Вариант 3/txt/TXT-24-18186.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CoffEAM&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CoffEAM/ege&quot;,
+    &quot;accountId&quot;: &quot;9f05f2c0-99e5-4c55-99a0-dbccd003936d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2r58aZSV3SptYNWtqmkxxWa35HV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,6 +83,27 @@
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1735838027887</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735838027887</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1735838058452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735838058452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
