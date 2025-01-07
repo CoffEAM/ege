@@ -1,6 +1,6 @@
 for n in range(10000):
     r = bin(n)[2:]
-    if n%2==0:
+    if n % 2 == 0:
         r = r.replace('1', '11')
     else:
         r = r.replace('0', '00')
@@ -9,7 +9,4 @@ for n in range(10000):
         print(n)
         break
 
-#Ответ 14
-
-
-
+# Ответ 14
