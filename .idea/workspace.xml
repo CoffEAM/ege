@@ -43,26 +43,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Task-1-17514.executor": "Run",
-    "Python.Task-1-1845.executor": "Run",
-    "Python.Task-1-4581.executor": "Run",
-    "Python.Task-1-4606.executor": "Run",
-    "Python.Task-1-9732.executor": "Run",
-    "Python.Task-1-9770.executor": "Run",
-    "Python.Task-12-19244.executor": "Run",
-    "Python.Task-14-19246.executor": "Run",
-    "Python.Task-16-19248.executor": "Run",
-    "Python.Task-23-19253.executor": "Run",
-    "Python.Task-5-19237.executor": "Run",
-    "Python.Task-8-19240.executor": "Run",
-    "Python.Task-8-randomhz.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Task-1-17514.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-1845.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-4581.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-4606.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-9732.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-9770.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-12-19244.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-19246.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-19248.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-19253.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-19237.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-19240.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-randomhz.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Task-1-1845" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ege" />
