@@ -1,8 +1,8 @@
-def con(x):
+def con(num):
     res = ''
-    while x:
-        res += str(x%3)
-        x //= 3
+    while num:
+        res += str(num%3)
+        num //= 3
     return res[::-1]
 
 ans = []
