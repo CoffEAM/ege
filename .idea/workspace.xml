@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-1 Пробник" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-2 Пробник" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +62,7 @@
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
     "Python.Task-16-19248.executor": "Run",
+    "Python.Task-2.executor": "Run",
     "Python.Task-23-19253.executor": "Run",
     "Python.Task-24-4602.executor": "Run",
     "Python.Task-5-14327.executor": "Run",
@@ -352,11 +353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1736413668191</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Задание-2 Пробник">
+      <option name="closed" value="true" />
+      <created>1736413878996</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1736413878996</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="С функцией переода в 3ную сс" />
     <MESSAGE value="Задание-5 №19237" />
     <MESSAGE value="Задание-14 №19246" />
     <MESSAGE value="Задание-8 №19240" />
@@ -381,6 +389,7 @@
     <MESSAGE value="Задание-1 №14443" />
     <MESSAGE value="Задание-1 №11649" />
     <MESSAGE value="Задание-1 Пробник" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-1 Пробник" />
+    <MESSAGE value="Задание-2 Пробник" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 Пробник" />
   </component>
 </project>
