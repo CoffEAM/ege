@@ -9,7 +9,8 @@ for i in alph:
 st = st.replace('A', 'A A')
 st = st.replace('AA', ' ')
 st = st.split()
-print(max(len(i) for i in st if i.count('A')==2))
+st = [1 for i in st if i.count('A')==2]
+print(len(st))
 
 
 

@@ -10,7 +10,7 @@ for x in alph[:26]:
     num = num1+num2+num3+num4
     if num%25==0:
         print(num//25)
-        break
+
 
 
 
