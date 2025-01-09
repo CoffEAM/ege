@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-17 Пробник" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-18 Пробник" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -436,11 +436,18 @@
       <option name="project" value="LOCAL" />
       <updated>1736416821371</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Задание-18 Пробник">
+      <option name="closed" value="true" />
+      <created>1736417194614</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1736417194614</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-1 №4606" />
     <MESSAGE value="Задание-1 №9732&#10;Симметричный граф" />
     <MESSAGE value="Задание-1 №9770&#10;Симметричный граф" />
     <MESSAGE value="Задание-1 №17514" />
@@ -465,6 +472,7 @@
     <MESSAGE value="Задание-14 Пробник" />
     <MESSAGE value="Задание-16 Пробник" />
     <MESSAGE value="Задание-17 Пробник" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-17 Пробник" />
+    <MESSAGE value="Задание-18 Пробник" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-18 Пробник" />
   </component>
 </project>
