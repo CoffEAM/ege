@@ -45,45 +45,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Task-1-11649.executor": "Run",
-    "Python.Task-1-14443.executor": "Run",
-    "Python.Task-1-16248.executor": "Run",
-    "Python.Task-1-17514.executor": "Run",
-    "Python.Task-1-17664.executor": "Run",
-    "Python.Task-1-1845.executor": "Run",
-    "Python.Task-1-4581.executor": "Run",
-    "Python.Task-1-4606.executor": "Run",
-    "Python.Task-1-9732.executor": "Run",
-    "Python.Task-1-9770.executor": "Run",
-    "Python.Task-12-19244.executor": "Run",
-    "Python.Task-14-12246.executor": "Run",
-    "Python.Task-14-18122.executor": "Run",
-    "Python.Task-14-19246.executor": "Run",
-    "Python.Task-14-19406.executor": "Run",
-    "Python.Task-16-19248.executor": "Run",
-    "Python.Task-23-19253.executor": "Run",
-    "Python.Task-24-4602.executor": "Run",
-    "Python.Task-5-14327.executor": "Run",
-    "Python.Task-5-18578.executor": "Run",
-    "Python.Task-5-19237.executor": "Run",
-    "Python.Task-8-13298.executor": "Run",
-    "Python.Task-8-17627.executor": "Run",
-    "Python.Task-8-19240.executor": "Run",
-    "Python.Task-8-randomhz.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/AMamedov/Desktop/ege/07.01.26/txt"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Task-1-11649.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-14443.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-16248.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-17514.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-17664.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-1845.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-4581.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-4606.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-9732.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-9770.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-12-19244.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-12246.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-18122.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-19246.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-19406.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-19248.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-19253.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-24-4602.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-14327.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-18578.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-19237.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-13298.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-17627.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-19240.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-randomhz.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AMamedov/Desktop/ege/07.01.26/txt&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\AMamedov\Desktop\ege\07.01.26\txt" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Task-1-1845">
     <configuration name="Task-1-1845" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ege" />
       <option name="ENV_FILES" value="" />
