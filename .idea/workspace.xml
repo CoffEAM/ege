@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Имаев 6 часовой вэб 2024&#10;макс длина подстроки из NPO/PNO">
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Имаев 6 часовой вэб 2024&#10;кол-во строк где &quot;C&quot; &gt; 'B'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.Imaev-10.executor": "Run",
     "Python.Imaev-11.executor": "Run",
     "Python.Imaev-12.executor": "Run",
+    "Python.Imaev-13.executor": "Run",
     "Python.Task-1-18308.executor": "Run",
     "Python.Task-1.executor": "Run",
     "Python.Task-12-18262.executor": "Run",
@@ -385,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736882293845</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Имаев 6 часовой вэб 2024&#10;кол-во строк где &quot;C&quot; &gt; 'B'">
+      <option name="closed" value="true" />
+      <created>1736882915986</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1736882915986</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -400,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-9 №18258" />
     <MESSAGE value="Задание-10 №18312" />
     <MESSAGE value="Задание-12 №18262" />
     <MESSAGE value="Задание-14 №18265" />
@@ -425,6 +433,7 @@
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс кол-во пар AB и CB" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс кол-вол пар &quot;согласная+гласная&quot;" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс длина подстроки из NPO/PNO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Имаев 6 часовой вэб 2024&#10;макс длина подстроки из NPO/PNO" />
+    <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во строк где &quot;C&quot; &gt; 'B'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Имаев 6 часовой вэб 2024&#10;кол-во строк где &quot;C&quot; &gt; 'B'" />
   </component>
 </project>
