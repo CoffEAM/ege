@@ -66,6 +66,7 @@
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
     "Python.Task-16-19248.executor": "Run",
+    "Python.Task-2-1846.executor": "Run",
     "Python.Task-2.executor": "Run",
     "Python.Task-23-19253.executor": "Run",
     "Python.Task-24-17535.executor": "Run",
@@ -338,8 +339,6 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-14 №19246" />
-    <MESSAGE value="Задание-8 №19240" />
     <MESSAGE value="Задание-12 №19244" />
     <MESSAGE value="Задание-16 №19248" />
     <MESSAGE value="Задание-8 рандом вариант от borisa(interesting)" />
@@ -363,6 +362,8 @@
     <MESSAGE value="Задание-2 вкид на будущее мега способ" />
     <MESSAGE value="Задание-24-18029" />
     <MESSAGE value="Задание-9-10910 задание из пробника" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-9-10910 задание из пробника" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/CoffEAM/ege&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
