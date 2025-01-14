@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-2 №9825" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-2 №17543" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +65,8 @@
     "Python.Task-14-19406.executor": "Run",
     "Python.Task-16-19248.executor": "Run",
     "Python.Task-2-17515.executor": "Run",
+    "Python.Task-2-17543.executor": "Run",
+    "Python.Task-2-17621.executor": "Run",
     "Python.Task-2-1846.executor": "Run",
     "Python.Task-2-4582.executor": "Run",
     "Python.Task-2-4607.executor": "Run",
@@ -387,12 +389,26 @@
       <option name="project" value="LOCAL" />
       <updated>1736874118222</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Задание-2 №17515">
+      <option name="closed" value="true" />
+      <created>1736874293543</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1736874293543</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Задание-2 №17543">
+      <option name="closed" value="true" />
+      <created>1736874457430</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1736874457430</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-1 №9732&#10;Симметричный граф" />
-    <MESSAGE value="Задание-1 №9770&#10;Симметричный граф" />
     <MESSAGE value="Задание-1 №17514" />
     <MESSAGE value="Задание-14 №12246" />
     <MESSAGE value="Задание-14 №19406" />
@@ -416,6 +432,8 @@
     <MESSAGE value="Задание-2 №9733" />
     <MESSAGE value="Задание-2 №9771" />
     <MESSAGE value="Задание-2 №9825" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 №9825" />
+    <MESSAGE value="Задание-2 №17515" />
+    <MESSAGE value="Задание-2 №17543" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 №17543" />
   </component>
 </project>
