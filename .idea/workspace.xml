@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Имаев 6 часовой вэб 2024&#10;макс кол-вол пар &quot;согласная+гласная&quot;" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,36 +43,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.24var1-sbornik2025.executor": "Run",
-    "Python.Imaev-01.executor": "Run",
-    "Python.Imaev-05.executor": "Run",
-    "Python.Imaev-08.executor": "Run",
-    "Python.Imaev-09.executor": "Run",
-    "Python.Imaev-10.executor": "Run",
-    "Python.Task-1-18308.executor": "Run",
-    "Python.Task-1.executor": "Run",
-    "Python.Task-12-18262.executor": "Run",
-    "Python.Task-14-18265.executor": "Run",
-    "Python.Task-16-18297.executor": "Run",
-    "Python.Task-17-18257.executor": "Run",
-    "Python.Task-2-18307.executor": "Run",
-    "Python.Task-2.executor": "Run",
-    "Python.Task-23-18267.executor": "Run",
-    "Python.Task-25-18298.executor": "Run",
-    "Python.Task-5-18287.executor": "Run",
-    "Python.Task-5.executor": "Run",
-    "Python.Task-6-18311.executor": "Run",
-    "Python.Task-6.executor": "Run",
-    "Python.Task-8-18260.executor": "Run",
-    "Python.Task-8.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/aziz0/Documents/Main/ege/другое/Задания-24"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.24var1-sbornik2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Imaev-01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Imaev-05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Imaev-08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Imaev-09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Imaev-10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-18308.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-12-18262.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-18265.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-16-18297.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-17-18257.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-18307.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-23-18267.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-18298.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-18287.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6-18311.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8-18260.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aziz0/Documents/Main/ege/другое/Задания-24&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\Задания-24" />
@@ -372,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736611204780</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="commit">
+      <option name="closed" value="true" />
+      <created>1736632521212</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1736632521212</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +411,6 @@
     <MESSAGE value="Задание-5 ФИПИ2025 Вар.1" />
     <MESSAGE value="Задание-6 ФИПИ2025 Вар.1" />
     <MESSAGE value="Задание-8 ФИПИ2025 Вар.1" />
-    <MESSAGE value="commit" />
     <MESSAGE value="Сборник ФИПИ 2025. Все TXT ко всем 24м заданиям" />
     <MESSAGE value="Шаблон к одному типу 24х заданий &quot;Количество подстрок между G#G&quot;" />
     <MESSAGE value="Нерешенное 24 из варианта 1 ФИПИ 2025" />
@@ -412,6 +419,7 @@
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс. подстроки без ACCB(ну или AXMM)" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс кол-во пар AB и CB" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс кол-вол пар &quot;согласная+гласная&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Имаев 6 часовой вэб 2024&#10;макс кол-вол пар &quot;согласная+гласная&quot;" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
