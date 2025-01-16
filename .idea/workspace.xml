@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="ДЗ на 17.01.25 - Задание-2 №19234&#10;&#10;https://kompege.ru/variant?kim=25075893">
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="ДЗ на 17.01.25 - Задание-2 №18576&#10;&#10;https://kompege.ru/variant?kim=25075893">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Python.Task-14-18265.executor": "Run",
     "Python.Task-16-18297.executor": "Run",
     "Python.Task-17-18257.executor": "Run",
+    "Python.Task-2-17621.executor": "Run",
     "Python.Task-2-17665.executor": "Run",
     "Python.Task-2-18307.executor": "Run",
     "Python.Task-2-18576.executor": "Run",
@@ -456,7 +457,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737057440238</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="ДЗ на 17.01.25 - Задание-2 №18576&#10;&#10;https://kompege.ru/variant?kim=25075893">
+      <option name="closed" value="true" />
+      <created>1737058053891</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1737058053891</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,7 +480,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-22 №18255" />
     <MESSAGE value="Задание-23 №18267" />
     <MESSAGE value="Задание-25 №18298" />
     <MESSAGE value="Задание-1 ФИПИ2025 Вар.1" />
@@ -496,6 +504,7 @@
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;максимальное расстояние между повторяющимися буквами в строке, в которой менее 25 букв G" />
     <MESSAGE value="ДЗ на 17.01.25 - Задание-2 №17665&#10;&#10;https://kompege.ru/variant?kim=25075893" />
     <MESSAGE value="ДЗ на 17.01.25 - Задание-2 №19234&#10;&#10;https://kompege.ru/variant?kim=25075893" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ на 17.01.25 - Задание-2 №19234&#10;&#10;https://kompege.ru/variant?kim=25075893" />
+    <MESSAGE value="ДЗ на 17.01.25 - Задание-2 №18576&#10;&#10;https://kompege.ru/variant?kim=25075893" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ на 17.01.25 - Задание-2 №18576&#10;&#10;https://kompege.ru/variant?kim=25075893" />
   </component>
 </project>
