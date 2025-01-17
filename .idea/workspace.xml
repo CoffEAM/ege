@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-2 №17621">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25/Task-2-4582.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-01-25/Task-2-4582.py" afterDir="false" />
-    </list>
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +82,7 @@
     "Python.Task-5-14327.executor": "Run",
     "Python.Task-5-18578.executor": "Run",
     "Python.Task-5-19237.executor": "Run",
+    "Python.Task-8-11292.executor": "Run",
     "Python.Task-8-13298.executor": "Run",
     "Python.Task-8-17627.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
@@ -417,8 +415,27 @@
       <option name="project" value="LOCAL" />
       <updated>1736874577525</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="commit">
+      <option name="closed" value="true" />
+      <created>1737132003005</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1737132003005</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задание-14 №12246" />
@@ -436,7 +453,6 @@
     <MESSAGE value="Задание-24-18029" />
     <MESSAGE value="Задание-9-10910 задание из пробника" />
     <MESSAGE value="Merge branch 'master' of https://github.com/CoffEAM/ege&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <MESSAGE value="commit" />
     <MESSAGE value="Задание-2 №1846" />
     <MESSAGE value="Задание-2 №4582" />
     <MESSAGE value="Задание-2 №4607" />
@@ -446,6 +462,7 @@
     <MESSAGE value="Задание-2 №17515" />
     <MESSAGE value="Задание-2 №17543" />
     <MESSAGE value="Задание-2 №17621" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 №17621" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
