@@ -6,7 +6,7 @@ for i in ascii_uppercase:
         st = st.replace(i, '-')
 st = st.replace('D', 'D D')
 st = st.split()
-arr = [i for i in st if i.count('C')>=2 and len(i)>9]
+arr = [i for i in st if i.count('C')>=2 and len(i)>9 and i.count('D')==2]
 print(len(arr))
 
 #10518 правильно
