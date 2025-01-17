@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-2 №6283" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-2 №17621">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-01-25/Task-2-4582.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-01-25/Task-2-4582.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -414,18 +417,11 @@
       <option name="project" value="LOCAL" />
       <updated>1736874577525</updated>
     </task>
-    <task id="LOCAL-00038" summary="Задание-2 №6283">
-      <option name="closed" value="true" />
-      <created>1736877808675</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1736877808675</updated>
-    </task>
-    <option name="localTasksCounter" value="39" />
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание-14 №12246" />
     <MESSAGE value="Задание-14 №19406" />
     <MESSAGE value="Задание-14 №18122" />
     <MESSAGE value="Задание-5 №18578" />
@@ -450,7 +446,6 @@
     <MESSAGE value="Задание-2 №17515" />
     <MESSAGE value="Задание-2 №17543" />
     <MESSAGE value="Задание-2 №17621" />
-    <MESSAGE value="Задание-2 №6283" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 №6283" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 №17621" />
   </component>
 </project>
