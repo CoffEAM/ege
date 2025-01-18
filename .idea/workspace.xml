@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-2 №13089" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-2 №13077">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +86,7 @@
     "Python.Task-24-17535.executor": "Run",
     "Python.Task-24-18029.executor": "Run",
     "Python.Task-24-4602.executor": "Run",
+    "Python.Task-26-4604.executor": "Run",
     "Python.Task-5-14327.executor": "Run",
     "Python.Task-5-18578.executor": "Run",
     "Python.Task-5-19237.executor": "Run",
@@ -96,11 +99,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/AMamedov/Desktop/ege/10.01.25"
+    "last_opened_file_path": "C:/Users/AMamedov/Desktop/ege/18-01-25-Sat/txt"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AMamedov\Desktop\ege\18-01-25-Sat\txt" />
       <recent name="C:\Users\AMamedov\Desktop\ege\10.01.25" />
       <recent name="C:\Users\AMamedov\Desktop\ege\07.01.26\txt" />
     </key>
@@ -484,7 +488,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737135868386</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Задание-2 №13077">
+      <option name="closed" value="true" />
+      <created>1737136704656</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1737136704656</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +511,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-8 №17627" />
     <MESSAGE value="Задание-8 №13298" />
     <MESSAGE value="Задание-1 №17664" />
     <MESSAGE value="Задание-1 №16248" />
@@ -524,6 +535,7 @@
     <MESSAGE value="Задание-1 №9148" />
     <MESSAGE value="Задание-2 №13797" />
     <MESSAGE value="Задание-2 №13089" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 №13089" />
+    <MESSAGE value="Задание-2 №13077" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 №13077" />
   </component>
 </project>
