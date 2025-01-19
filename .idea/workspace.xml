@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-8 №19240&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-10 №19242&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,22 +121,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Задание-12 №18262">
-      <option name="closed" value="true" />
-      <created>1736097398572</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1736097398572</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Задание-14 №18265">
-      <option name="closed" value="true" />
-      <created>1736097749158</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1736097749158</updated>
     </task>
     <task id="LOCAL-00013" summary="Задание-16 №18297">
       <option name="closed" value="true" />
@@ -514,7 +498,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737280575381</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Задание-9 №19241&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737281219684</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1737281219684</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Задание-10 №19242&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737281236233</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1737281236233</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,8 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс кол-вол пар &quot;согласная+гласная&quot;" />
-    <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс длина подстроки из NPO/PNO" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во строк где &quot;C&quot; &gt; 'B'" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во строк c &quot;С*В&quot; где * любой символ" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во во всем файле самой часто встречающейся и поздней в алфавите буквы в строке в которой меньше всего букв А и которая раньше всех в файле" />
@@ -554,6 +552,8 @@
     <MESSAGE value="Задание-5 №19237&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-6 №19238&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-8 №19240&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-8 №19240&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <MESSAGE value="Задание-9 №19241&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <MESSAGE value="Задание-10 №19242&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-10 №19242&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
   </component>
 </project>
