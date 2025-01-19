@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-10 №19242&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-14 №19246&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +66,9 @@
     "Python.Task-1.executor": "Run",
     "Python.Task-12-18262.executor": "Run",
     "Python.Task-14-18265.executor": "Run",
+    "Python.Task-14-19246.executor": "Run",
     "Python.Task-16-18297.executor": "Run",
+    "Python.Task-16-19248.executor": "Run",
     "Python.Task-17-18257.executor": "Run",
     "Python.Task-17.executor": "Run",
     "Python.Task-2-17621.executor": "Run",
@@ -121,14 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Задание-16 №18297">
-      <option name="closed" value="true" />
-      <created>1736097956552</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1736097956552</updated>
     </task>
     <task id="LOCAL-00014" summary="Задание-17 №18257">
       <option name="closed" value="true" />
@@ -514,7 +510,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737281236233</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Задание-14 №19246&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737286482392</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1737286482392</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во строк где &quot;C&quot; &gt; 'B'" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во строк c &quot;С*В&quot; где * любой символ" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во во всем файле самой часто встречающейся и поздней в алфавите буквы в строке в которой меньше всего букв А и которая раньше всех в файле" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во во всем файле самой часто встречающейся и позднейбуквы в строке в которой меньше всего букв А и которая раньше всех в файле" />
@@ -554,6 +557,7 @@
     <MESSAGE value="Задание-8 №19240&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-9 №19241&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-10 №19242&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-10 №19242&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <MESSAGE value="Задание-14 №19246&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-14 №19246&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
   </component>
 </project>
