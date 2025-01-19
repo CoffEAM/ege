@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-2 №19234&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-3 №19235&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,14 +117,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Задание-6 №18311">
-      <option name="closed" value="true" />
-      <created>1736078914048</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1736078914048</updated>
     </task>
     <task id="LOCAL-00008" summary="Задание-8 №18260">
       <option name="closed" value="true" />
@@ -510,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737279682339</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Задание-3 №19235&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737279905897</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1737279905897</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Легкое задание. Имаев 6 часовой вэб 2024" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;Последовательность цифр в сторого возврастающем порядке" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс. подстроки без ACCB(ну или AXMM)" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс кол-во пар AB и CB" />
@@ -550,6 +549,7 @@
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс. длина строки без пар из букв A,B,C(включая повторы)" />
     <MESSAGE value="Задание-1 №19233&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-2 №19234&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 №19234&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <MESSAGE value="Задание-3 №19235&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-3 №19235&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
   </component>
 </project>
