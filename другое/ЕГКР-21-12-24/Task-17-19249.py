@@ -1,4 +1,4 @@
-arr = open('txt/Task-17-19249.txt').readlines()
+arr = open('txt/Txt-17-19249.txt').readlines()
 arr = [int(i) for i in arr]
 troiki = [[arr[i], arr[i + 1], arr[i + 2]] for i in range(len(arr) - 2)]
 

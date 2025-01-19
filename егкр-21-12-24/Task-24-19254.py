@@ -1,4 +1,4 @@
-with open("A:/Загрузки/24_19254.txt") as file:
+with open("A:/Загрузки/Txt-24-19254.txt") as file:
     st = file.readline()
 st = st.replace('FSRQ', '-')
 st = st[:60]
