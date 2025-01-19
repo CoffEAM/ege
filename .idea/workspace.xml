@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-17 №19249&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-18 №19250&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,14 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Задание-22 №18255">
-      <option name="closed" value="true" />
-      <created>1736100335114</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1736100335114</updated>
     </task>
     <task id="LOCAL-00017" summary="Задание-23 №18267">
       <option name="closed" value="true" />
@@ -520,7 +510,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737287675139</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Задание-18 №19250&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737289663505</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1737289663505</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -535,7 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во во всем файле самой часто встречающейся и позднейбуквы в строке в которой меньше всего букв А и которая раньше всех в файле" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;максимальное расстояние между повторяющимися буквами в строке, в которой менее 25 букв G" />
     <MESSAGE value="ДЗ на 17.01.25 - Задание-2 №17665&#10;&#10;https://kompege.ru/variant?kim=25075893" />
     <MESSAGE value="ДЗ на 17.01.25 - Задание-2 №19234&#10;&#10;https://kompege.ru/variant?kim=25075893" />
@@ -560,6 +557,7 @@
     <MESSAGE value="Задание-14 №19246&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-16 №19248&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-17 №19249&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-17 №19249&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <MESSAGE value="Задание-18 №19250&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-18 №19250&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
   </component>
 </project>
