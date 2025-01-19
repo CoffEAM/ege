@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-23 №19253&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
-      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-17-19249.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-17-19249.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/txt/Task-17-19249.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/txt/Txt-17-19249.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/егкр-21-12-24/Task-24-19254.py" beforeDir="false" afterPath="$PROJECT_DIR$/егкр-21-12-24/Task-24-19254.py" afterDir="false" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-24 №19254&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,9 @@
     "Python.Task-2.executor": "Run",
     "Python.Task-23-18267.executor": "Run",
     "Python.Task-23-19253.executor": "Run",
+    "Python.Task-24-19254.executor": "Run",
     "Python.Task-25-18298.executor": "Run",
+    "Python.Task-25-19255.executor": "Run",
     "Python.Task-5-14330.executor": "Run",
     "Python.Task-5-18287.executor": "Run",
     "Python.Task-5-19237.executor": "Run",
@@ -130,14 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Задание-2 ФИПИ2025 Вар.1">
-      <option name="closed" value="true" />
-      <created>1736259902099</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1736259902099</updated>
     </task>
     <task id="LOCAL-00021" summary="Задание-5 ФИПИ2025 Вар.1">
       <option name="closed" value="true" />
@@ -523,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737291107445</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Задание-24 №19254&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737291415353</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1737291415354</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -538,7 +538,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ДЗ на 17.01.25 - Задание-2 №18576&#10;&#10;https://kompege.ru/variant?kim=25075893" />
     <MESSAGE value="ДЗ на 17.01.25 - Задание-2 №17621&#10;&#10;https://kompege.ru/variant?kim=25075893" />
     <MESSAGE value="ДЗ на 17.01.25 - Задание-1 №19233&#10;&#10;https://kompege.ru/variant?kim=25075893" />
     <MESSAGE value="ДЗ на 17.01.25 - Задание-1 №16248&#10;&#10;https://kompege.ru/variant?kim=25075893" />
@@ -563,6 +562,7 @@
     <MESSAGE value="Задание-19-21 №19251&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-22 №19252&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-23 №19253&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-23 №19253&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <MESSAGE value="Задание-24 №19254&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-24 №19254&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
   </component>
 </project>
