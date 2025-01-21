@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-15 №4620&#10;https://kompege.ru/variant?kim=25077099" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-15 №1859&#10;https://kompege.ru/variant?kim=25077099" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,8 +65,11 @@
     "Python.Task-14-18122.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
+    "Python.Task-15-1859.executor": "Run",
     "Python.Task-15-4595.executor": "Run",
     "Python.Task-15-4620.executor": "Run",
+    "Python.Task-15-9746.executor": "Run",
+    "Python.Task-15-9784.executor": "Run",
     "Python.Task-16-19248.executor": "Run",
     "Python.Task-2-13077.executor": "Run",
     "Python.Task-2-13089.executor": "Run",
@@ -131,22 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057116939</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Задание-12 №19244">
-      <option name="closed" value="true" />
-      <created>1735060737060</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1735060737060</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Задание-16 №19248">
-      <option name="closed" value="true" />
-      <created>1735060918208</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1735060918208</updated>
     </task>
     <task id="LOCAL-00008" summary="Задание-8 рандом вариант от borisa(interesting)">
       <option name="closed" value="true" />
@@ -524,7 +511,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737481010674</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Задание-15 №9746&#10;https://kompege.ru/variant?kim=25077099">
+      <option name="closed" value="true" />
+      <created>1737481157284</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1737481157284</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Задание-15 №1859&#10;https://kompege.ru/variant?kim=25077099">
+      <option name="closed" value="true" />
+      <created>1737481273508</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1737481273508</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,8 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-2 №1846" />
-    <MESSAGE value="Задание-2 №4582" />
     <MESSAGE value="Задание-2 №4607" />
     <MESSAGE value="Задание-2 №9733" />
     <MESSAGE value="Задание-2 №9825" />
@@ -564,6 +565,8 @@
     <MESSAGE value="Задание-9 №18174 ИСПРАВЛЕНИЕ&#10;https://kompege.ru/variant?kim=25077094" />
     <MESSAGE value="Задание-15 №4595&#10;https://kompege.ru/variant?kim=25077099" />
     <MESSAGE value="Задание-15 №4620&#10;https://kompege.ru/variant?kim=25077099" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-15 №4620&#10;https://kompege.ru/variant?kim=25077099" />
+    <MESSAGE value="Задание-15 №9746&#10;https://kompege.ru/variant?kim=25077099" />
+    <MESSAGE value="Задание-15 №1859&#10;https://kompege.ru/variant?kim=25077099" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-15 №1859&#10;https://kompege.ru/variant?kim=25077099" />
   </component>
 </project>
