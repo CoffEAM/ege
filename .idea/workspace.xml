@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-9 №18174 ИСПРАВЛЕНИЕ&#10;https://kompege.ru/variant?kim=25077094">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-15 №4595&#10;https://kompege.ru/variant?kim=25077099" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,14 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057116939</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Задание-14 №19246">
-      <option name="closed" value="true" />
-      <created>1735059252023</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1735059252023</updated>
     </task>
     <task id="LOCAL-00005" summary="Задание-8 №19240">
       <option name="closed" value="true" />
@@ -525,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737477853087</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Задание-15 №4595&#10;https://kompege.ru/variant?kim=25077099">
+      <option name="closed" value="true" />
+      <created>1737480195141</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1737480195141</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,7 +538,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-9-10910 задание из пробника" />
     <MESSAGE value="Merge branch 'master' of https://github.com/CoffEAM/ege&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Задание-2 №1846" />
     <MESSAGE value="Задание-2 №4582" />
@@ -565,6 +562,7 @@
     <MESSAGE value="Задание-3 №18359&#10;https://kompege.ru/variant?kim=25077094" />
     <MESSAGE value="Задание-9 №18174&#10;https://kompege.ru/variant?kim=25077094" />
     <MESSAGE value="Задание-9 №18174 ИСПРАВЛЕНИЕ&#10;https://kompege.ru/variant?kim=25077094" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-9 №18174 ИСПРАВЛЕНИЕ&#10;https://kompege.ru/variant?kim=25077094" />
+    <MESSAGE value="Задание-15 №4595&#10;https://kompege.ru/variant?kim=25077099" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-15 №4595&#10;https://kompege.ru/variant?kim=25077099" />
   </component>
 </project>
