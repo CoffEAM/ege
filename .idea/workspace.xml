@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-26 №4660" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-26 №4604">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -503,15 +505,7 @@
       <option name="project" value="LOCAL" />
       <updated>1737204888928</updated>
     </task>
-    <task id="LOCAL-00048" summary="Задание-26 №4660">
-      <option name="closed" value="true" />
-      <created>1737208471460</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1737208471460</updated>
-    </task>
-    <option name="localTasksCounter" value="49" />
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,6 +520,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание-1 №17664" />
     <MESSAGE value="Задание-1 №16248" />
     <MESSAGE value="Задание-1 №11649" />
     <MESSAGE value="Задание-2 вкид на будущее мега способ" />
@@ -550,7 +545,6 @@
     <MESSAGE value="Задание-2 №13089" />
     <MESSAGE value="Задание-2 №13077" />
     <MESSAGE value="Задание-26 №4604" />
-    <MESSAGE value="Задание-26 №4660" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-26 №4660" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-26 №4604" />
   </component>
 </project>
