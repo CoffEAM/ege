@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-2 №960&#10;https://kompege.ru/variant?kim=25076534" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Ответы к ДЗ на 21.01.25&#10;https://kompege.ru/variant?kim=25076534" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,14 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00025" summary="commit">
-      <option name="closed" value="true" />
-      <created>1736603324596</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1736603324596</updated>
     </task>
     <task id="LOCAL-00026" summary="Сборник ФИПИ 2025. Все TXT ко всем 24м заданиям">
       <option name="closed" value="true" />
@@ -527,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737470985347</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Ответы к ДЗ на 21.01.25&#10;https://kompege.ru/variant?kim=25076534">
+      <option name="closed" value="true" />
+      <created>1737471368068</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1737471368068</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,7 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ДЗ на 17.01.25 - Задание-8 №11292&#10;Необычное&#10;&#10;https://kompege.ru/variant?kim=25075893" />
     <MESSAGE value="ДЗ на 17.01.25 - Задание-8 №11292&#10;НЕПРАВИЛЬНОЕ Необычное&#10;&#10;https://kompege.ru/variant?kim=25075893" />
     <MESSAGE value="ДЗ на 17.01.25 - Результаты+Ответы&#10;&#10;https://kompege.ru/variant?kim=25075893" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во строк длинной не менее 10 вида D#D где C не менее двух раз" />
@@ -567,6 +566,7 @@
     <MESSAGE value="Задание-2 №78&#10;https://kompege.ru/variant?kim=25076534" />
     <MESSAGE value="Задание-2 №454&#10;https://kompege.ru/variant?kim=25076534" />
     <MESSAGE value="Задание-2 №960&#10;https://kompege.ru/variant?kim=25076534" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-2 №960&#10;https://kompege.ru/variant?kim=25076534" />
+    <MESSAGE value="Ответы к ДЗ на 21.01.25&#10;https://kompege.ru/variant?kim=25076534" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ответы к ДЗ на 21.01.25&#10;https://kompege.ru/variant?kim=25076534" />
   </component>
 </project>
