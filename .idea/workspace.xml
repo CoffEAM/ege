@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-22 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-23 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,12 +105,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/aziz0/Documents/Main/ege/другое/ЕГКР-21-12-24/txt",
+    "last_opened_file_path": "C:/Users/aziz0/Documents/Main/ege/ДЗ/ДЗ-24-01-25/txt",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-24-01-25\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\ЕГКР-21-12-24\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\Задания-24\imaev" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\Задания-24" />
@@ -139,14 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00042" summary="ДЗ на 17.01.25 - Задание-2 №17665&#10;&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737056914052</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1737056914052</updated>
     </task>
     <task id="LOCAL-00043" summary="ДЗ на 17.01.25 - Задание-2 №19234&#10;&#10;https://kompege.ru/variant?kim=25075893">
       <option name="closed" value="true" />
@@ -532,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737718327038</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Задание-23 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661">
+      <option name="closed" value="true" />
+      <created>1737718450091</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1737718450091</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-19-21 №19251&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-22 №19252&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-23 №19253&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-24 №19254&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
@@ -572,6 +572,7 @@
     <MESSAGE value="Задание-18 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <MESSAGE value="Задания-19-21 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <MESSAGE value="Задание-22 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-22 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <MESSAGE value="Задание-23 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-23 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
   </component>
 </project>
