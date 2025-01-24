@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-15 №12483&#10;https://kompege.ru/variant?kim=25077882" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-15 №14658&#10;https://kompege.ru/variant?kim=25077882" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +73,7 @@
     "Python.Task-15-12483.executor": "Run",
     "Python.Task-15-14350.executor": "Run",
     "Python.Task-15-14353.executor": "Run",
+    "Python.Task-15-14658.executor": "Run",
     "Python.Task-15-1859.executor": "Run",
     "Python.Task-15-4595.executor": "Run",
     "Python.Task-15-4620.executor": "Run",
@@ -145,22 +146,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057116939</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Задание-1 №16248">
-      <option name="closed" value="true" />
-      <created>1736270291721</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1736270291721</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Задание-1 №14443">
-      <option name="closed" value="true" />
-      <created>1736270508487</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1736270508487</updated>
     </task>
     <task id="LOCAL-00025" summary="Задание-1 №11649">
       <option name="closed" value="true" />
@@ -538,7 +523,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737739878431</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Задание-15 №14353&#10;https://kompege.ru/variant?kim=25077882">
+      <option name="closed" value="true" />
+      <created>1737740182254</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1737740182254</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Задание-15 №14658&#10;https://kompege.ru/variant?kim=25077882">
+      <option name="closed" value="true" />
+      <created>1737740393205</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1737740393205</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,8 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-2 №13077" />
-    <MESSAGE value="Задание-26 №4604" />
     <MESSAGE value="Задание-2 №4459&#10;https://kompege.ru/variant?kim=25077094" />
     <MESSAGE value="Задание-1 №5896&#10;https://kompege.ru/variant?kim=25077094" />
     <MESSAGE value="Задание-3 №18359&#10;https://kompege.ru/variant?kim=25077094" />
@@ -578,6 +577,8 @@
     <MESSAGE value="Задание-15 №14350&#10;https://kompege.ru/variant?kim=25077882" />
     <MESSAGE value="Задание-15 №12247&#10;https://kompege.ru/variant?kim=25077882" />
     <MESSAGE value="Задание-15 №12483&#10;https://kompege.ru/variant?kim=25077882" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-15 №12483&#10;https://kompege.ru/variant?kim=25077882" />
+    <MESSAGE value="Задание-15 №14353&#10;https://kompege.ru/variant?kim=25077882" />
+    <MESSAGE value="Задание-15 №14658&#10;https://kompege.ru/variant?kim=25077882" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-15 №14658&#10;https://kompege.ru/variant?kim=25077882" />
   </component>
 </project>
