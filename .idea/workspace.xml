@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-1 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-5 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,11 +112,11 @@
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25064102. Вариант 4\txt" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-24-01-25" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-21-01-25" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\ЕГКР-21-12-24" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\Задания-24\imaev" />
-      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\Задания-24" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -134,30 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Сборник ФИПИ 2025. Все TXT ко всем 24м заданиям">
-      <option name="closed" value="true" />
-      <created>1736603688040</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1736603688040</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Шаблон к одному типу 24х заданий &quot;Количество подстрок между G#G&quot;">
-      <option name="closed" value="true" />
-      <created>1736603887876</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1736603887876</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Нерешенное 24 из варианта 1 ФИПИ 2025">
-      <option name="closed" value="true" />
-      <created>1736607904769</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1736607904769</updated>
     </task>
     <task id="LOCAL-00029" summary="Легкое задание. Имаев 6 часовой вэб 2024">
       <option name="closed" value="true" />
@@ -527,7 +503,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737710075674</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Задание-2 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661">
+      <option name="closed" value="true" />
+      <created>1737710424033</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1737710424033</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Задание-3 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661">
+      <option name="closed" value="true" />
+      <created>1737710466605</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1737710466605</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Задание-5 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661">
+      <option name="closed" value="true" />
+      <created>1737710627871</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1737710627871</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,9 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ДЗ на 17.01.25 - Задание-8 №11292&#10;НЕПРАВИЛЬНОЕ Необычное&#10;&#10;https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="ДЗ на 17.01.25 - Результаты+Ответы&#10;&#10;https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="Имаев 6 часовой вэб 2024&#10;кол-во строк длинной не менее 10 вида D#D где C не менее двух раз" />
     <MESSAGE value="Имаев 6 часовой вэб 2024&#10;макс. длина строки без пар из букв A,B,C(включая повторы)" />
     <MESSAGE value="Задание-1 №19233&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-2 №19234&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
@@ -567,6 +564,9 @@
     <MESSAGE value="Задание-2 №454&#10;https://kompege.ru/variant?kim=25076534" />
     <MESSAGE value="Задание-2 №960&#10;https://kompege.ru/variant?kim=25076534" />
     <MESSAGE value="Задание-1 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-1 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <MESSAGE value="Задание-2 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <MESSAGE value="Задание-3 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <MESSAGE value="Задание-5 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-5 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
   </component>
 </project>
