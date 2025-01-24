@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-23 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-24 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-15.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-15.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,8 +91,10 @@
     "Python.Task-23-19253.executor": "Run",
     "Python.Task-23.executor": "Run",
     "Python.Task-24-19254.executor": "Run",
+    "Python.Task-24.executor": "Run",
     "Python.Task-25-18298.executor": "Run",
     "Python.Task-25-19255.executor": "Run",
+    "Python.Task-25.executor": "Run",
     "Python.Task-26-19256.executor": "Run",
     "Python.Task-5-14330.executor": "Run",
     "Python.Task-5-18287.executor": "Run",
@@ -140,14 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00043" summary="ДЗ на 17.01.25 - Задание-2 №19234&#10;&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737057440238</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1737057440238</updated>
     </task>
     <task id="LOCAL-00044" summary="ДЗ на 17.01.25 - Задание-2 №18576&#10;&#10;https://kompege.ru/variant?kim=25075893">
       <option name="closed" value="true" />
@@ -533,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737718450091</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Задание-24 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661">
+      <option name="closed" value="true" />
+      <created>1737719033551</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1737719033551</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -548,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-22 №19252&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-23 №19253&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-24 №19254&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
     <MESSAGE value="Задание-25 №19255&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855" />
@@ -573,6 +577,7 @@
     <MESSAGE value="Задания-19-21 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <MESSAGE value="Задание-22 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <MESSAGE value="Задание-23 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-23 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <MESSAGE value="Задание-24 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-24 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
   </component>
 </project>

@@ -5,14 +5,16 @@ def plov(a, b, c):
         return 0
 
 def f(A):
-    for x in range(1, 100000):
-        for y in range(1, 100000):
-            f = (not(plov(x, y, A+13))) <= (plov(28, y, 520) or plov(x, 25, 800))
-            if not f:
-                return 0
-    return 1
+    for a in range(1, 10000):
+        for b in range(1, 10000):
+            f = (not(plov(a, b, A+13))) <= (plov(28, b, 520) or plov(a, 25, 800))
+            if f:
+                return 1
+    return 0
 
-for A in range(1000000):
-    if f(A):
+print(plov(15, 17, 47))
+
+for A in range(1, 100000):
+    if not f(A):
         print(A)
 
