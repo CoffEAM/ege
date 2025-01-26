@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-8 №17671 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-9 №17672 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,8 +125,8 @@
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25064102. Вариант 4\txt" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-24-01-25" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-24-01-25\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-21-01-25" />
@@ -149,14 +147,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00050" summary="ДЗ на 17.01.25 - Задание-8 №11292&#10;НЕПРАВИЛЬНОЕ Необычное&#10;&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737060177042</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1737060177042</updated>
     </task>
     <task id="LOCAL-00051" summary="ДЗ на 17.01.25 - Результаты+Ответы&#10;&#10;https://kompege.ru/variant?kim=25075893">
       <option name="closed" value="true" />
@@ -542,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737879151762</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Задание-9 №17672 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665">
+      <option name="closed" value="true" />
+      <created>1737881016800</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1737881016800</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -557,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-1 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <MESSAGE value="Задание-2 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <MESSAGE value="Задание-3 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <MESSAGE value="Задание-5 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
@@ -582,6 +579,7 @@
     <MESSAGE value="Задание-5 №17668 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
     <MESSAGE value="Задание-6 №17669 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
     <MESSAGE value="Задание-8 №17671 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-8 №17671 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
+    <MESSAGE value="Задание-9 №17672 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-9 №17672 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
   </component>
 </project>
