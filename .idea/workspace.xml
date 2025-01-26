@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-24 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-15.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-1-19233.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-1-19233.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-10-19242.docx" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-10-19242.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-12-19244.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-12-19244.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-14-19246.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-14-19246.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-16-19248.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-16-19248.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-17-19249.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-17-19249.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-18-19250.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-18-19250.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-19-21-19251.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-19-21-19251.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-2-19234.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-2-19234.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-22-19252.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-22-19252.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-23-19253.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-23-19253.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-24-19254.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-24-19254.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-25-19255.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-25-19255.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-3-19235.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-3-19235.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-5-19237.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-5-19237.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-6-19238.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-6-19238.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-8-19240.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-8-19240.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/Task-9-19241.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/Task-9-19241.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/txt/Txt-17-19249.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/txt/Txt-17-19249.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/ЕГКР-21-12-24/txt/Txt-24-19254.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/ЕГКР-21-12-24 - дз школа/txt/Txt-24-19254.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +80,7 @@
     "Python.Imaev-16.executor": "Run",
     "Python.Imaev-18.executor": "Run",
     "Python.Task-1-16248.executor": "Run",
+    "Python.Task-1-17664.executor": "Run",
     "Python.Task-1-18308.executor": "Run",
     "Python.Task-1-19233.executor": "Run",
     "Python.Task-1.executor": "Run",
