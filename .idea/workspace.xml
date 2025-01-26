@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-18 №17681 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-19-21 №17682 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,14 +153,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Задание-8 №19240&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
-      <option name="closed" value="true" />
-      <created>1737280575381</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1737280575381</updated>
     </task>
     <task id="LOCAL-00060" summary="Задание-9 №19241&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
       <option name="closed" value="true" />
@@ -546,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737883125280</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Задание-19-21 №17682 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665">
+      <option name="closed" value="true" />
+      <created>1737884369899</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1737884369899</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -561,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-12 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <MESSAGE value="Задание-13 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <MESSAGE value="Задание-14 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
     <MESSAGE value="Задание-15 ДЗ-Пробник&#10;https://inf-ege.sdamgia.ru/test?id=14887661" />
@@ -586,6 +585,7 @@
     <MESSAGE value="Задание-15 №17678 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
     <MESSAGE value="Задание-16 №17679 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
     <MESSAGE value="Задание-18 №17681 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-18 №17681 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
+    <MESSAGE value="Задание-19-21 №17682 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-19-21 №17682 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665" />
   </component>
 </project>
