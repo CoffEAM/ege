@@ -1,20 +1,21 @@
 def plov(a, b, c):
-    if (a*b) > c:
-        return 1
+    if a*b > c:
+        return True
     else:
-        return 0
+        return False
 
-def f(A):
-    for a in range(1, 10000):
-        for b in range(1, 10000):
-            f = (not(plov(a, b, A+13))) <= (plov(28, b, 520) or plov(a, 25, 800))
-            if f:
-                return 1
-    return 0
+def f(a):
+    for x in range(1, 1000):
+        for y in range(1, 1000):
+            f = (not(plov(x, y, a+13))) <= (plov(28, y, 520) or plov(x, 25, 800))
+            if not f:
+                return 0
+    return 1
 
-print(plov(15, 17, 47))
+for a in range(-1000, 1000):
+    if f(a):
+        print(a)
 
-for A in range(1, 100000):
-    if not f(A):
-        print(A)
+
+
 
