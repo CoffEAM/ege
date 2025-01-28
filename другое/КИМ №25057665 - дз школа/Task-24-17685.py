@@ -6,13 +6,12 @@ for i in ['**', '*+', '+*', '++']:
 while ' 0 ' in st:
     st = st.replace(' 0 ', ' ')
 
-for i in '0123456789':
-    while f'{i}+ ' in st or f'{i}* ' in st:
-        st = st.replace(f'{i}+ ', f'{i} ')
-        st = st.replace(f'{i}* ', f'{i} ')
-    while f' +{i}' in st or f' *{i}' in st:
-        st = st.replace(f' +{i}', f' {i}')
-        st = st.replace(f' *{i}', f' {i}')
+while f'+ ' in st or f'* ' in st:
+    st = st.replace(f'+ ', f' ')
+    st = st.replace(f'* ', f' ')
+while f' +' in st or f' *' in st:
+    st = st.replace(f' +', f' ')
+    st = st.replace(f' *', f' ')
 
 print(len(max([i for i in st.split() if eval(i)==0], key=len)))
 
