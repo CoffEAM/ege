@@ -3,7 +3,7 @@ from itertools import product
 alph = digits + ascii_uppercase
 alph = alph[:12]
 chet = ''.join([i for i in alph if (alph.index(i)+1)%2==0])
-nechet = ''.join([i for i in alph if (alph.index(i)+1)%2==0])
+nechet = ''.join([i for i in alph if (int(i, 12)+1)%2==0])
 
 def con(num):
     res = ''
@@ -20,9 +20,10 @@ for num in product('0123456789', repeat=7):
         if num.count('B')==2:
             flag = False
             for r in range(len(num)-1):
-                if ((alph.index(num[r])+1)%2==0 and (alph.index(num[r+1])+1)%2==1) \
-                    or ((alph.index(num[r])+1)%2==1 and (alph.index(num[r+1])+1)%2==0):
+                if (int(num[r], 12)%2==0 and int(num[r+1], 12)%2==1) or (int(num[r], 12)%2==1 and int(num[r+1], 12)%2==0):
                     flag = True
+                else:
+                    flag = False
             if flag:
                 cnt += 1
 print(cnt)

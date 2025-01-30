@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="commit" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-24 №17685 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-15.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-9.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-24-01-25/Task-9.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/КИМ №25057665 - дз школа/Task-24-17685.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/КИМ №25057665 - дз школа/Task-24-17685.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,6 +166,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Задание-19-21 №19251&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737290402843</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1737290402843</updated>
     </task>
     <task id="LOCAL-00067" summary="Задание-22 №19252&#10;ЕГКР-21-12-24 https://kompege.ru/variant?kim=25073855">
       <option name="closed" value="true" />
@@ -542,15 +559,7 @@
       <option name="project" value="LOCAL" />
       <updated>1737889654510</updated>
     </task>
-    <task id="LOCAL-00115" summary="commit">
-      <option name="closed" value="true" />
-      <created>1738075167637</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1738075167637</updated>
-    </task>
-    <option name="localTasksCounter" value="116" />
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
