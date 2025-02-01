@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-3 №18171&#10;https://kompege.ru/variant?kim=25079395">
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31-01-25/Task-8-18049.py" beforeDir="false" afterPath="$PROJECT_DIR$/31-01-25/Task-8-18049.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +108,7 @@
     "Python.Task-24-17535.executor": "Run",
     "Python.Task-24-18029.executor": "Run",
     "Python.Task-24-4602.executor": "Run",
+    "Python.Task-26-10107.executor": "Run",
     "Python.Task-26-4604.executor": "Run",
     "Python.Task-26-4660.executor": "Run",
     "Python.Task-5-10657.executor": "Run",
@@ -131,17 +131,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/AMamedov/Desktop/ege/28-01-25/txt"
+    "last_opened_file_path": "C:/Users/AMamedov/Desktop/ege/01-02-25-Sat"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AMamedov\Desktop\ege\01-02-25-Sat" />
       <recent name="C:\Users\AMamedov\Desktop\ege\28-01-25\txt" />
       <recent name="C:\Users\AMamedov\Desktop\ege\18-01-25-Sat\txt" />
       <recent name="C:\Users\AMamedov\Desktop\ege\10.01.25" />
       <recent name="C:\Users\AMamedov\Desktop\ege\07.01.26\txt" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AMamedov\Desktop\ege\01-02-25-Sat\txt" />
       <recent name="C:\Users\AMamedov\Desktop\ege\31-01-25" />
       <recent name="C:\Users\AMamedov\Desktop\ege\21-01-25" />
       <recent name="C:\Users\AMamedov\Desktop\ege\10.01.25" />
@@ -162,14 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057116939</updated>
-    </task>
-    <task id="LOCAL-00038" summary="commit">
-      <option name="closed" value="true" />
-      <created>1737132003005</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1737132003005</updated>
     </task>
     <task id="LOCAL-00039" summary="Задание-2 №9771">
       <option name="closed" value="true" />
@@ -555,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738343342495</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="commit">
+      <option name="closed" value="true" />
+      <created>1738346416704</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1738346416704</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -583,7 +585,6 @@
     <MESSAGE value="Задание-15 №12483&#10;https://kompege.ru/variant?kim=25077882" />
     <MESSAGE value="Задание-15 №14353&#10;https://kompege.ru/variant?kim=25077882" />
     <MESSAGE value="Задание-15 №14658&#10;https://kompege.ru/variant?kim=25077882" />
-    <MESSAGE value="commit" />
     <MESSAGE value="Задание-15 №9545 &#10;https://kompege.ru/variant?kim=25078582" />
     <MESSAGE value="Задание-15 №8676&#10;https://kompege.ru/variant?kim=25078582" />
     <MESSAGE value="Задание-6 №14173&#10;https://kompege.ru/variant?kim=25078582" />
@@ -595,6 +596,7 @@
     <MESSAGE value="Задание-14 №19246&#10;https://kompege.ru/variant?kim=25079395" />
     <MESSAGE value="Задание-9 №17863&#10;https://kompege.ru/variant?kim=25079395" />
     <MESSAGE value="Задание-3 №18171&#10;https://kompege.ru/variant?kim=25079395" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-3 №18171&#10;https://kompege.ru/variant?kim=25079395" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
