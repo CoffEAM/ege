@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-26 №14625&#10;Суббота">
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-26 №10107&#10;Суббота">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +125,6 @@
     "Python.Task-8-17798.executor": "Run",
     "Python.Task-8-18049.executor": "Run",
     "Python.Task-8-18974.executor": "Run",
-    "Python.Task-8-18976.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
     "Python.Task-8-randomhz.executor": "Run",
     "Python.Task-8.executor": "Run",
@@ -166,6 +165,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057116939</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Задание-2 №14390">
+      <option name="closed" value="true" />
+      <created>1737132365849</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1737132365849</updated>
     </task>
     <task id="LOCAL-00041" summary="Задание-2 №7667">
       <option name="closed" value="true" />
@@ -551,15 +558,7 @@
       <option name="project" value="LOCAL" />
       <updated>1738423678926</updated>
     </task>
-    <task id="LOCAL-00089" summary="Задание-26 №14625&#10;Суббота">
-      <option name="closed" value="true" />
-      <created>1738426325778</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1738426325778</updated>
-    </task>
-    <option name="localTasksCounter" value="90" />
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -574,6 +573,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание-14 №19359&#10;https://kompege.ru/variant?kim=25077879" />
     <MESSAGE value="Задание-14 №19705&#10;https://kompege.ru/variant?kim=25077879" />
     <MESSAGE value="Задание-15 №9838&#10;https://kompege.ru/variant?kim=25077879" />
     <MESSAGE value="commmmetet" />
@@ -598,7 +598,6 @@
     <MESSAGE value="Задание-3 №18171&#10;https://kompege.ru/variant?kim=25079395" />
     <MESSAGE value="commit" />
     <MESSAGE value="Задание-26 №10107&#10;Суббота" />
-    <MESSAGE value="Задание-26 №14625&#10;Суббота" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-26 №14625&#10;Суббота" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-26 №10107&#10;Суббота" />
   </component>
 </project>
