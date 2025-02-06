@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-8 №9363&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-8 №5553&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,6 +140,8 @@
     "Python.Task-8-18260.executor": "Run",
     "Python.Task-8-18484.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
+    "Python.Task-8-5300.executor": "Run",
+    "Python.Task-8-5553.executor": "Run",
     "Python.Task-8-9363.executor": "Run",
     "Python.Task-8.executor": "Run",
     "Python.Task-9-17672.executor": "Run",
@@ -169,7 +171,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -181,14 +183,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Задание-3 №17666 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665">
-      <option name="closed" value="true" />
-      <created>1737878532933</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1737878532933</updated>
     </task>
     <task id="LOCAL-00096" summary="Задание-5 №17668 Основаная волна 04.06.24 ДЗ-школа&#10;https://kompege.ru/variant?kim=25057665">
       <option name="closed" value="true" />
@@ -574,7 +568,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738871894751</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="Задание-8 №5553&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738872233682</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1738872233682</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -589,7 +591,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-3 №18359&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404" />
     <MESSAGE value="Задание-5 №18361&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404" />
     <MESSAGE value="Задание-6 №18483&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404" />
     <MESSAGE value="Задание-8 №18484&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404" />
@@ -614,6 +615,7 @@
     <MESSAGE value="Задание-15 №8677&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370" />
     <MESSAGE value="Задание-15 №5437&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370" />
     <MESSAGE value="Задание-8 №9363&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-8 №9363&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370" />
+    <MESSAGE value="Задание-8 №5553&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-8 №5553&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370" />
   </component>
 </project>
