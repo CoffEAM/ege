@@ -1,17 +1,17 @@
-from itertools import combinations
-
 def delet(n, m):
     return 1 if n%m==0 else 0
 
-def f(x, y, z, a):
-    return (delet(z, 115) or delet(y, 78) or delet(x, 51)) <= delet(x, a)
+def f(a):
+    for x in range(1, 51*3):
+        for y in range(1, 78*3):
+            for z in range(1, 115*3):
+                f = (delet(z, 115) or delet(y, 78) or delet(x, 51)) <= delet(x, a)
+                if not f:
+                    return 0
+    return 1
 
-ans = []
-for a_a in range(1, 100):
-    for y_y in range(1, 100):
-        for z_z in range(1, 100):
-            if all(f(x_x, y_y, z_z, a_a) for x_x in range(1, 100)):
-                ans.append(a_a)
-print(max(ans))
+for a in range(1, 1000):
+    if f(a):
+        print(a)
 
 
