@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-25 №18372&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-25 №18372&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +78,7 @@
     "Python.Task-15-17678.executor": "Run",
     "Python.Task-15-18266.executor": "Run",
     "Python.Task-15-18489.executor": "Run",
+    "Python.Task-15-18595.executor": "Run",
     "Python.Task-15-19247.executor": "Run",
     "Python.Task-15.executor": "Run",
     "Python.Task-16-17679.executor": "Run",
