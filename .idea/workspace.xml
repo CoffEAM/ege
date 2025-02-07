@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-15 №11665&#10;https://kompege.ru/variant?kim=25080912" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-15 №11665&#10;https://kompege.ru/variant?kim=25080912">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +76,7 @@
     "Python.Task-15-11665.executor": "Run",
     "Python.Task-15-11837.executor": "Run",
     "Python.Task-15-11845.executor": "Run",
+    "Python.Task-15-1198.executor": "Run",
     "Python.Task-15-12247.executor": "Run",
     "Python.Task-15-12483.executor": "Run",
     "Python.Task-15-1276.executor": "Run",
@@ -83,11 +86,18 @@
     "Python.Task-15-18140.executor": "Run",
     "Python.Task-15-1859.executor": "Run",
     "Python.Task-15-18971.executor": "Run",
+    "Python.Task-15-2861.executor": "Run",
+    "Python.Task-15-3736.executor": "Run",
+    "Python.Task-15-4278.executor": "Run",
+    "Python.Task-15-4279.executor": "Run",
+    "Python.Task-15-4280.executor": "Run",
+    "Python.Task-15-4285.executor": "Run",
     "Python.Task-15-4595.executor": "Run",
     "Python.Task-15-4620.executor": "Run",
     "Python.Task-15-4770.executor": "Run",
     "Python.Task-15-746.executor": "Run",
     "Python.Task-15-747.executor": "Run",
+    "Python.Task-15-748.executor": "Run",
     "Python.Task-15-753.executor": "Run",
     "Python.Task-15-8676.executor": "Run",
     "Python.Task-15-9545.executor": "Run",
@@ -179,22 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057116939</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Задание-15 №9784&#10;https://kompege.ru/variant?kim=25077099">
-      <option name="closed" value="true" />
-      <created>1737481394828</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1737481394828</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Задание-15 №9838&#10;https://kompege.ru/variant?kim=25077099">
-      <option name="closed" value="true" />
-      <created>1737481526515</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1737481526515</updated>
     </task>
     <task id="LOCAL-00059" summary="Задание-5 №10657&#10;https://kompege.ru/variant?kim=25077879">
       <option name="closed" value="true" />
@@ -572,7 +566,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738946580721</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Задание-15 №11665&#10;https://kompege.ru/variant?kim=25080912">
+      <option name="closed" value="true" />
+      <created>1738946778410</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1738946778410</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Задание-15 №11665&#10;https://kompege.ru/variant?kim=25080912">
+      <option name="closed" value="true" />
+      <created>1738946817956</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1738946817956</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
