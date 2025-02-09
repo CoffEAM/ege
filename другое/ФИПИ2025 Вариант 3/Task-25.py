@@ -1,6 +1,6 @@
 for num in range(800001, 9000001):
     r = 0
-    for delitel in range(2, num//2):
+    for delitel in range(1, num//2):
         if num%delitel==0:
             r += delitel
     if str(r)[-1]=='3':
