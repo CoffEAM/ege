@@ -14,7 +14,7 @@ pars = [[arr[i], arr[i + 1]] for i in range(len(arr) - 1)]
 
 ans = []
 for para in pars:
-    k = prost(abs(para[0])) + prost(abs(para[1]))
+    k = prost(para[0]) + prost(para[1])
     if k == 1 and abs(sum(para)) % maxx == 0:
         ans.append(para[0] * para[1])
 print(len(ans), max(ans))
