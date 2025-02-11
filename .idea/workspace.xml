@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-17 №17530&#10;https://kompege.ru/variant?kim=25081650" />
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-17 №175558&#10;https://kompege.ru/variant?kim=25081650" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +104,7 @@
     "Python.Task-15-9838.executor": "Run",
     "Python.Task-16-19248.executor": "Run",
     "Python.Task-17-17530.executor": "Run",
+    "Python.Task-17-17558.executor": "Run",
     "Python.Task-17-4597.executor": "Run",
     "Python.Task-17-4622.executor": "Run",
     "Python.Task-17-9748.executor": "Run",
@@ -193,14 +194,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057116939</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Задание-15 №9784&#10;https://kompege.ru/variant?kim=25077882">
-      <option name="closed" value="true" />
-      <created>1737737136602</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1737737136602</updated>
     </task>
     <task id="LOCAL-00066" summary="Задание-15 №11837&#10;https://kompege.ru/variant?kim=25077882">
       <option name="closed" value="true" />
@@ -586,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739293304312</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="Задание-17 №175558&#10;https://kompege.ru/variant?kim=25081650">
+      <option name="closed" value="true" />
+      <created>1739293745275</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1739293745275</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -601,7 +602,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-15 №18140&#10;https://kompege.ru/variant?kim=25079395" />
     <MESSAGE value="Задание-14 №19246&#10;https://kompege.ru/variant?kim=25079395" />
     <MESSAGE value="Задание-9 №17863&#10;https://kompege.ru/variant?kim=25079395" />
     <MESSAGE value="Задание-3 №18171&#10;https://kompege.ru/variant?kim=25079395" />
@@ -626,6 +626,7 @@
     <MESSAGE value="Задание-17 №9786&#10;https://kompege.ru/variant?kim=25081650" />
     <MESSAGE value="Задание-17 №9840&#10;https://kompege.ru/variant?kim=25081650" />
     <MESSAGE value="Задание-17 №17530&#10;https://kompege.ru/variant?kim=25081650" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-17 №17530&#10;https://kompege.ru/variant?kim=25081650" />
+    <MESSAGE value="Задание-17 №175558&#10;https://kompege.ru/variant?kim=25081650" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-17 №175558&#10;https://kompege.ru/variant?kim=25081650" />
   </component>
 </project>
