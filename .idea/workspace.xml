@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-8 №19753 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-8 №1927 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,6 +146,7 @@
     "Python.Task-8-18260.executor": "Run",
     "Python.Task-8-18484.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
+    "Python.Task-8-1927.executor": "Run",
     "Python.Task-8-19753.executor": "Run",
     "Python.Task-8-5300.executor": "Run",
     "Python.Task-8-5553.executor": "Run",
@@ -168,11 +169,11 @@
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа\txt" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-14-02-25" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25066404 Вариант 5" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-24-01-25" />
-      <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-24-01-25\txt" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -190,14 +191,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00127" summary="Задание-14 №18488&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
-      <option name="closed" value="true" />
-      <created>1738498152715</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1738498152715</updated>
     </task>
     <task id="LOCAL-00128" summary="Задание-15 №18489&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
@@ -583,7 +576,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739539336054</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="Задание-8 №1927 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654">
+      <option name="closed" value="true" />
+      <created>1739539564954</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1739539564958</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -598,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-3 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-5 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-6 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-8 ФИПИ2025 Вариант-3" />
@@ -623,6 +623,7 @@
     <MESSAGE value="Задание-15 №18175 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
     <MESSAGE value="Задание-15 №1320 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
     <MESSAGE value="Задание-8 №19753 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-8 №19753 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <MESSAGE value="Задание-8 №1927 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-8 №1927 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
   </component>
 </project>
