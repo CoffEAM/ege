@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-24 ФИПИ2025 Вариант-8" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-24 ФИПИ2025 Вариант-10">
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/Imaev-19.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,11 +60,13 @@
     "Python.Imaev-15.executor": "Run",
     "Python.Imaev-16.executor": "Run",
     "Python.Imaev-18.executor": "Run",
+    "Python.Krilov-v10-2025.executor": "Run",
     "Python.Krilov-v4-2025.executor": "Run",
     "Python.Krilov-v5-2025.executor": "Run",
     "Python.Krilov-v6-2025.executor": "Run",
     "Python.Krilov-v7-2025.executor": "Run",
     "Python.Krilov-v8-2025.executor": "Run",
+    "Python.Krilov-v9-2025.executor": "Run",
     "Python.Task-1-16248.executor": "Run",
     "Python.Task-1-17664.executor": "Run",
     "Python.Task-1-18308.executor": "Run",
@@ -196,22 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00136" summary="Задание-25 №18372&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
-      <option name="closed" value="true" />
-      <created>1738508310198</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1738508310198</updated>
-    </task>
-    <task id="LOCAL-00137" summary="Задание-15 №18595&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
-      <option name="closed" value="true" />
-      <created>1738868962199</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1738868962199</updated>
     </task>
     <task id="LOCAL-00138" summary="Задание-15 №16833&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
@@ -589,7 +577,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739640712026</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="Задание-24 ФИПИ2025 Вариант-9">
+      <option name="closed" value="true" />
+      <created>1739641296488</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1739641296488</updated>
+    </task>
+    <task id="LOCAL-00186" summary="Задание-24 ФИПИ2025 Вариант-10">
+      <option name="closed" value="true" />
+      <created>1739641444107</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1739641444107</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -604,8 +608,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-14 ФИПИ2025 Вариант-3" />
-    <MESSAGE value="Задание-15 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-16 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-17 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-18 ФИПИ2025 Вариант-3" />
@@ -629,6 +631,8 @@
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-6" />
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-7" />
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-24 ФИПИ2025 Вариант-8" />
+    <MESSAGE value="Задание-24 ФИПИ2025 Вариант-9" />
+    <MESSAGE value="Задание-24 ФИПИ2025 Вариант-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-24 ФИПИ2025 Вариант-10" />
   </component>
 </project>
