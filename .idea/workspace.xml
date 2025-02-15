@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-24 ФИПИ2025 Вариант-12" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-24 ФИПИ2025 Вариант-13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +61,8 @@
     "Python.Krilov-v10-2025.executor": "Run",
     "Python.Krilov-v11-2025.executor": "Run",
     "Python.Krilov-v12-2025.executor": "Run",
+    "Python.Krilov-v13-2025.executor": "Run",
+    "Python.Krilov-v14-2025.executor": "Run",
     "Python.Krilov-v4-2025.executor": "Run",
     "Python.Krilov-v5-2025.executor": "Run",
     "Python.Krilov-v6-2025.executor": "Run",
@@ -200,14 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00140" summary="Задание-15 №4327&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
-      <option name="closed" value="true" />
-      <created>1738869587640</created>
-      <option name="number" value="00140" />
-      <option name="presentableId" value="LOCAL-00140" />
-      <option name="project" value="LOCAL" />
-      <updated>1738869587640</updated>
     </task>
     <task id="LOCAL-00141" summary="Задание-15 №8677&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
@@ -593,7 +587,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739641800997</updated>
     </task>
-    <option name="localTasksCounter" value="189" />
+    <task id="LOCAL-00189" summary="Задание-24 ФИПИ2025 Вариант-13">
+      <option name="closed" value="true" />
+      <created>1739641937406</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1739641937406</updated>
+    </task>
+    <option name="localTasksCounter" value="190" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -608,7 +610,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-18 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задания-19-21 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задания-22 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задания-23 ФИПИ2025 Вариант-3" />
@@ -633,6 +634,7 @@
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-10" />
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-11" />
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-24 ФИПИ2025 Вариант-12" />
+    <MESSAGE value="Задание-24 ФИПИ2025 Вариант-13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-24 ФИПИ2025 Вариант-13" />
   </component>
 </project>
