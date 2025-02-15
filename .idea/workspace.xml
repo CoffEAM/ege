@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Ответы к ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/24var1-sbornik2025.py" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/Krilov-v1-2025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var04.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var05.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var13-16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var13-16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/другое/Задания-24/txt-24-sbornik2025/24var17-20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/другое/Задания-24/txt-Krilov-2025/24var17-20.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +75,7 @@
     "Python.Imaev-15.executor": "Run",
     "Python.Imaev-16.executor": "Run",
     "Python.Imaev-18.executor": "Run",
+    "Python.Krilov-v4-2025.executor": "Run",
     "Python.Task-1-16248.executor": "Run",
     "Python.Task-1-17664.executor": "Run",
     "Python.Task-1-18308.executor": "Run",
@@ -156,17 +174,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/aziz0/Documents/Main/ege/ДЗ/ДЗ-14-02-25/txt",
+    "last_opened_file_path": "C:/Users/aziz0/Documents/Main/ege/другое/Задания-24/txt-24-sbornik2025",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\Задания-24\txt-24-sbornik2025" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-14-02-25\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\ФИПИ2025 Вариант 3\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\ФИПИ2025 Вариант 3" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25066404 Вариант 5\txt" />
-      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа\txt" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-14-02-25" />
@@ -191,14 +209,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00130" summary="Задание-17 №18368&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
-      <option name="closed" value="true" />
-      <created>1738499099219</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1738499099219</updated>
     </task>
     <task id="LOCAL-00131" summary="Задание-18 №18369&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
@@ -584,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739539784893</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="commit">
+      <option name="closed" value="true" />
+      <created>1739631548308</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1739631548308</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -601,7 +619,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задание-8 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-9 ФИПИ2025 Вариант-3" />
-    <MESSAGE value="commit" />
     <MESSAGE value="Задание-10 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-12 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-13 ФИПИ2025 Вариант-3" />
@@ -624,6 +641,7 @@
     <MESSAGE value="Задание-8 №1927 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
     <MESSAGE value="Задание-5 №19237 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
     <MESSAGE value="Ответы к ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ответы к ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

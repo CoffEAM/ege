@@ -1,4 +1,4 @@
-with open('txt-24-sbornik2025/24var01.txt') as file:
+with open('txt-Krilov-2025/24var01.txt') as file:
     st = file.readline()
 
 print(st[342:421])
