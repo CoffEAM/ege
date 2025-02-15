@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-24 ФИПИ2025 Вариант-14" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-24 ФИПИ2025 Вариант-16">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +66,7 @@
     "Python.Krilov-v13-2025.executor": "Run",
     "Python.Krilov-v14-2025.executor": "Run",
     "Python.Krilov-v15-2025.executor": "Run",
+    "Python.Krilov-v16-2025.executor": "Run",
     "Python.Krilov-v4-2025.executor": "Run",
     "Python.Krilov-v5-2025.executor": "Run",
     "Python.Krilov-v6-2025.executor": "Run",
@@ -168,24 +171,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/aziz0/Documents/Main/ege/другое/Задания-24/txt-24-sbornik2025",
+    "last_opened_file_path": "C:/Users/aziz0/Documents/Main/ege/ДЗ/ДЗ-18-02-25/txt",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-18-02-25\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\Задания-24\txt-24-sbornik2025" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-14-02-25\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\ФИПИ2025 Вариант 3\txt" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\ФИПИ2025 Вариант 3" />
-      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25066404 Вариант 5\txt" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-18-02-25" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-14-02-25" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25066404 Вариант 5" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа" />
       <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа\txt" />
-      <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-24-01-25" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -203,22 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00142" summary="Задание-15 №5437&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
-      <option name="closed" value="true" />
-      <created>1738870533082</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1738870533082</updated>
-    </task>
-    <task id="LOCAL-00143" summary="Задание-8 №9363&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
-      <option name="closed" value="true" />
-      <created>1738871894751</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1738871894751</updated>
     </task>
     <task id="LOCAL-00144" summary="Задание-8 №5553&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
@@ -596,7 +583,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739642246214</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="Задание-24 ФИПИ2025 Вариант-15">
+      <option name="closed" value="true" />
+      <created>1739642548759</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1739642548759</updated>
+    </task>
+    <task id="LOCAL-00192" summary="Задание-24 ФИПИ2025 Вариант-16">
+      <option name="closed" value="true" />
+      <created>1739642687924</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1739642687924</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -611,8 +614,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задания-22 ФИПИ2025 Вариант-3" />
-    <MESSAGE value="Задания-23 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задания-24 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задания-25 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-17 №17873" />
@@ -636,6 +637,8 @@
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-12" />
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-13" />
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-24 ФИПИ2025 Вариант-14" />
+    <MESSAGE value="Задание-24 ФИПИ2025 Вариант-15" />
+    <MESSAGE value="Задание-24 ФИПИ2025 Вариант-16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-24 ФИПИ2025 Вариант-16" />
   </component>
 </project>
