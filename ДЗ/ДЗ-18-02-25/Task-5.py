@@ -9,6 +9,8 @@ for n in range(1, 10000):
     r = c(n)
     if len(r)%2==0:
         r = r[:len(r)//2] + '0' + r[len(r)//2:]
-    r = int(r, 4)
+    else:
+        r = r
+    r = int(r)
     if r <= 180:
         print(n)

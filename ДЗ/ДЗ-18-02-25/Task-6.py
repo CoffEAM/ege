@@ -1,8 +1,8 @@
 from turtle import *
 
-screensize(1000, 1000)
+screensize(2000, 2500)
+m = 30
 tracer(0)
-m = 19
 lt(90)
 
 up()

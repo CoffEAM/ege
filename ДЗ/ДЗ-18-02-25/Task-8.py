@@ -1,6 +1,7 @@
 from itertools import product
 
-alph = set(sorted('КАЛЕЙДОСКОП'))
+alph = sorted(set('КАЛЕЙДОСКОП'))[::-1]
+print(alph)
 
 for pos, val in enumerate(product(alph, repeat=6), start=0):
     val = ''.join(val)
