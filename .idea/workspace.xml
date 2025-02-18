@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="commit" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-25 №4603&#10;https://kompege.ru/variant?kim=25083166" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,14 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00135" summary="Задание-24 №18284&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
-      <option name="closed" value="true" />
-      <created>1738507704438</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1738507704438</updated>
     </task>
     <task id="LOCAL-00136" summary="Задание-25 №18372&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
@@ -589,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739897327936</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="Задание-25 №4603&#10;https://kompege.ru/variant?kim=25083166">
+      <option name="closed" value="true" />
+      <created>1739897745432</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1739897745432</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -604,7 +604,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-13 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-14 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-15 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-16 ФИПИ2025 Вариант-3" />
@@ -629,6 +628,7 @@
     <MESSAGE value="Задание-17 №13882&#10;https://kompege.ru/variant?kim=25083158" />
     <MESSAGE value="Задание-15 №16833 УСКОРЕНИЕ РЕШЕНИЯ +rep&#10;https://kompege.ru/variant?kim=25083158" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Задание-25 №4603&#10;https://kompege.ru/variant?kim=25083166" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-25 №4603&#10;https://kompege.ru/variant?kim=25083166" />
   </component>
 </project>
