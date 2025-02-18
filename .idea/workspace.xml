@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Задание-17 №9993&#10;https://kompege.ru/variant?kim=25081650">
+    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Большой тест 1-26, кроме 13, 16, 19-21, 23, 27&#10;https://kompege.ru/variant?kim=25082369">
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-1-17514.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-10-17970.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-12-15325.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-14-4326.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-15-16326.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-17-7716.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-18-9841.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-2-1528.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-22-16267.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-24-15339.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-26-16335.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-3-16250.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-5-9736.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-6-17519.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-8-6985.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/Task-9-5946.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/txt/17_7716.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/txt/24_15339.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-25/txt/26_16335.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,14 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057116939</updated>
-    </task>
-    <task id="LOCAL-00069" summary="Задание-15 №14350&#10;https://kompege.ru/variant?kim=25077882">
-      <option name="closed" value="true" />
-      <created>1737739535101</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1737739535101</updated>
     </task>
     <task id="LOCAL-00070" summary="Задание-15 №12247&#10;https://kompege.ru/variant?kim=25077882">
       <option name="closed" value="true" />
@@ -603,7 +614,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739296316036</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="Большой тест 1-26, кроме 13, 16, 19-21, 23, 27&#10;https://kompege.ru/variant?kim=25082369">
+      <option name="closed" value="true" />
+      <created>1739556225987</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1739556225987</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -618,7 +637,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-26 №10107&#10;Суббота" />
     <MESSAGE value="Задание-8 №13252&#10;https://kompege.ru/variant?kim=25080153" />
     <MESSAGE value="Задание-8 №12786&#10;https://kompege.ru/variant?kim=25080153" />
     <MESSAGE value="Задание-5 №14328&#10;https://kompege.ru/variant?kim=25080153" />
@@ -643,6 +661,7 @@
     <MESSAGE value="Задание-17 №17680&#10;https://kompege.ru/variant?kim=25081650" />
     <MESSAGE value="Задание-17 №9993&#10;https://kompege.ru/variant?kim=25081650" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Большой тест 1-26, кроме 13, 16, 19-21, 23, 27&#10;https://kompege.ru/variant?kim=25082369" />
+    <option name="LAST_COMMIT_MESSAGE" value="Большой тест 1-26, кроме 13, 16, 19-21, 23, 27&#10;https://kompege.ru/variant?kim=25082369" />
   </component>
 </project>
