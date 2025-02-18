@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-17 №13882&#10;https://kompege.ru/variant?kim=25083158" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-15 №16833 УСКОРЕНИЕ РЕШЕНИЯ +rep&#10;https://kompege.ru/variant?kim=25083158">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18-02-25/Task-17-13882.py" beforeDir="false" afterPath="$PROJECT_DIR$/18-02-25/Task-17-13882.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18-02-25/Task-17-19486.py" beforeDir="false" afterPath="$PROJECT_DIR$/18-02-25/Task-17-19486.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,14 +199,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00133" summary="Задание-22 №18371&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
-      <option name="closed" value="true" />
-      <created>1738500887151</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1738500887151</updated>
     </task>
     <task id="LOCAL-00134" summary="Задание-23 №18491&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
@@ -588,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739896075849</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="Задание-15 №16833 УСКОРЕНИЕ РЕШЕНИЯ +rep&#10;https://kompege.ru/variant?kim=25083158">
+      <option name="closed" value="true" />
+      <created>1739896820483</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1739896820483</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -603,7 +607,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-12 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-13 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-14 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-15 ФИПИ2025 Вариант-3" />
@@ -628,6 +631,7 @@
     <MESSAGE value="Задание-15 №16833&#10;https://kompege.ru/variant?kim=25083158" />
     <MESSAGE value="Задание-17 №19486&#10;https://kompege.ru/variant?kim=25083158" />
     <MESSAGE value="Задание-17 №13882&#10;https://kompege.ru/variant?kim=25083158" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-17 №13882&#10;https://kompege.ru/variant?kim=25083158" />
+    <MESSAGE value="Задание-15 №16833 УСКОРЕНИЕ РЕШЕНИЯ +rep&#10;https://kompege.ru/variant?kim=25083158" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-15 №16833 УСКОРЕНИЕ РЕШЕНИЯ +rep&#10;https://kompege.ru/variant?kim=25083158" />
   </component>
 </project>
