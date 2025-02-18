@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="Большой тест 1-26, кроме 13, 16, 19-21, 23, 27&#10;https://kompege.ru/variant?kim=25082369">
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-1-17514.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-10-17970.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-12-15325.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-14-4326.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-15-16326.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-17-7716.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-18-9841.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-2-1528.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-22-16267.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-24-15339.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-26-16335.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-3-16250.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-5-9736.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-6-17519.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-8-6985.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/Task-9-5946.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/txt/17_7716.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/txt/24_15339.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-02-25/txt/26_16335.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-8 №1927 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +17,6 @@
       </list>
     </option>
   </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/master" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -52,15 +28,15 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/CoffEAM/ege.git&quot;,
-    &quot;accountId&quot;: &quot;d5a0e465-09e3-4817-801b-9acd2b4df4d2&quot;
+    &quot;url&quot;: &quot;https://github.com/CoffEAM/ege&quot;,
+    &quot;accountId&quot;: &quot;9f05f2c0-99e5-4c55-99a0-dbccd003936d&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2qfcYHSNUyhuJ1WQC5hY1UmOoRU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2r58aZSV3SptYNWtqmkxxWa35HV" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -69,560 +45,546 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Task-1-11649.executor": "Run",
-    "Python.Task-1-14443.executor": "Run",
+    "Python.24var1-sbornik2025.executor": "Run",
+    "Python.Imaev-01.executor": "Run",
+    "Python.Imaev-05.executor": "Run",
+    "Python.Imaev-08.executor": "Run",
+    "Python.Imaev-09.executor": "Run",
+    "Python.Imaev-10.executor": "Run",
+    "Python.Imaev-11.executor": "Run",
+    "Python.Imaev-12.executor": "Run",
+    "Python.Imaev-13.executor": "Run",
+    "Python.Imaev-14.executor": "Run",
+    "Python.Imaev-15.executor": "Run",
+    "Python.Imaev-16.executor": "Run",
+    "Python.Imaev-18.executor": "Run",
     "Python.Task-1-16248.executor": "Run",
-    "Python.Task-1-17514.executor": "Run",
     "Python.Task-1-17664.executor": "Run",
-    "Python.Task-1-1845.executor": "Run",
-    "Python.Task-1-4581.executor": "Run",
-    "Python.Task-1-4606.executor": "Run",
-    "Python.Task-1-5896.executor": "Run",
-    "Python.Task-1-9148.executor": "Run",
-    "Python.Task-1-9732.executor": "Run",
-    "Python.Task-1-9770.executor": "Run",
-    "Python.Task-12-15325.executor": "Run",
-    "Python.Task-12-18579.executor": "Run",
-    "Python.Task-12-19244.executor": "Run",
-    "Python.Task-14-12246.executor": "Run",
-    "Python.Task-14-14342.executor": "Run",
-    "Python.Task-14-18122.executor": "Run",
+    "Python.Task-1-18308.executor": "Run",
+    "Python.Task-1-18481.executor": "Run",
+    "Python.Task-1-19233.executor": "Run",
+    "Python.Task-1.executor": "Run",
+    "Python.Task-12-17675.executor": "Run",
+    "Python.Task-12-18262.executor": "Run",
+    "Python.Task-12-18486.executor": "Run",
+    "Python.Task-12.executor": "Run",
+    "Python.Task-13-17676.executor": "Run",
+    "Python.Task-13-18487.executor": "Run",
+    "Python.Task-13.executor": "Run",
+    "Python.Task-14-17677.executor": "Run",
+    "Python.Task-14-18265.executor": "Run",
+    "Python.Task-14-18488.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
-    "Python.Task-14-19359.executor": "Run",
-    "Python.Task-14-19406.executor": "Run",
-    "Python.Task-14-19705.executor": "Run",
-    "Python.Task-14-4326.executor": "Run",
     "Python.Task-14.executor": "Run",
-    "Python.Task-15-1013.executor": "Run",
-    "Python.Task-15-11665.executor": "Run",
-    "Python.Task-15-11837.executor": "Run",
-    "Python.Task-15-11845.executor": "Run",
-    "Python.Task-15-1198.executor": "Run",
-    "Python.Task-15-12247.executor": "Run",
-    "Python.Task-15-12483.executor": "Run",
-    "Python.Task-15-1276.executor": "Run",
-    "Python.Task-15-14350.executor": "Run",
-    "Python.Task-15-14353.executor": "Run",
-    "Python.Task-15-14658.executor": "Run",
-    "Python.Task-15-16326.executor": "Run",
-    "Python.Task-15-18140.executor": "Run",
-    "Python.Task-15-1859.executor": "Run",
-    "Python.Task-15-18971.executor": "Run",
-    "Python.Task-15-2861.executor": "Run",
-    "Python.Task-15-3736.executor": "Run",
-    "Python.Task-15-4278.executor": "Run",
-    "Python.Task-15-4279.executor": "Run",
-    "Python.Task-15-4280.executor": "Run",
-    "Python.Task-15-4285.executor": "Run",
-    "Python.Task-15-4595.executor": "Run",
-    "Python.Task-15-4620.executor": "Run",
-    "Python.Task-15-4770.executor": "Run",
-    "Python.Task-15-746.executor": "Run",
-    "Python.Task-15-747.executor": "Run",
-    "Python.Task-15-748.executor": "Run",
-    "Python.Task-15-753.executor": "Run",
-    "Python.Task-15-8676.executor": "Run",
-    "Python.Task-15-9545.executor": "Run",
-    "Python.Task-15-9746.executor": "Run",
-    "Python.Task-15-9784.executor": "Run",
-    "Python.Task-15-9838.executor": "Run",
+    "Python.Task-15-1320.executor": "Run",
+    "Python.Task-15-16833.executor": "Run",
+    "Python.Task-15-17678.executor": "Run",
+    "Python.Task-15-18175.executor": "Run",
+    "Python.Task-15-18266.executor": "Run",
+    "Python.Task-15-18489.executor": "Run",
+    "Python.Task-15-18595.executor": "Run",
+    "Python.Task-15-19247.executor": "Run",
+    "Python.Task-15-4327.executor": "Run",
+    "Python.Task-15-5437.executor": "Run",
+    "Python.Task-15-7836.executor": "Run",
+    "Python.Task-15-8677.executor": "Run",
+    "Python.Task-15.executor": "Run",
+    "Python.Task-16-17679.executor": "Run",
+    "Python.Task-16-18297.executor": "Run",
+    "Python.Task-16-18490.executor": "Run",
     "Python.Task-16-19248.executor": "Run",
-    "Python.Task-17-17530.executor": "Run",
-    "Python.Task-17-17558.executor": "Run",
-    "Python.Task-17-17636.executor": "Run",
+    "Python.Task-16.executor": "Run",
     "Python.Task-17-17680.executor": "Run",
-    "Python.Task-17-4597.executor": "Run",
-    "Python.Task-17-4622.executor": "Run",
-    "Python.Task-17-7716.executor": "Run",
-    "Python.Task-17-9748.executor": "Run",
-    "Python.Task-17-9786.executor": "Run",
-    "Python.Task-17-9840.executor": "Run",
-    "Python.Task-17-9993.executor": "Run",
-    "Python.Task-2-13077.executor": "Run",
-    "Python.Task-2-13089.executor": "Run",
-    "Python.Task-2-13797.executor": "Run",
-    "Python.Task-2-14651.executor": "Run",
-    "Python.Task-2-1528.executor": "Run",
-    "Python.Task-2-17515.executor": "Run",
-    "Python.Task-2-17543.executor": "Run",
+    "Python.Task-17-17873.executor": "Run",
+    "Python.Task-17-18257.executor": "Run",
+    "Python.Task-17-18368.executor": "Run",
+    "Python.Task-17-19249.executor": "Run",
+    "Python.Task-17-4705.executor": "Run",
+    "Python.Task-17.executor": "Run",
     "Python.Task-2-17621.executor": "Run",
-    "Python.Task-2-1846.executor": "Run",
-    "Python.Task-2-4459.executor": "Run",
-    "Python.Task-2-4582.executor": "Run",
-    "Python.Task-2-4607.executor": "Run",
-    "Python.Task-2-6283.executor": "Run",
-    "Python.Task-2-7667.executor": "Run",
-    "Python.Task-2-9733.executor": "Run",
-    "Python.Task-2-9771.executor": "Run",
-    "Python.Task-2-9825.executor": "Run",
+    "Python.Task-2-17665.executor": "Run",
+    "Python.Task-2-18307.executor": "Run",
+    "Python.Task-2-18482.executor": "Run",
+    "Python.Task-2-18576.executor": "Run",
+    "Python.Task-2-19234.executor": "Run",
+    "Python.Task-2-454.executor": "Run",
+    "Python.Task-2-78.executor": "Run",
+    "Python.Task-2-816.executor": "Run",
+    "Python.Task-2-960.executor": "Run",
     "Python.Task-2.executor": "Run",
+    "Python.Task-23-17684.executor": "Run",
+    "Python.Task-23-18267.executor": "Run",
+    "Python.Task-23-18491.executor": "Run",
     "Python.Task-23-19253.executor": "Run",
-    "Python.Task-24-14510.executor": "Run",
-    "Python.Task-24-15339.executor": "Run",
-    "Python.Task-24-17535.executor": "Run",
-    "Python.Task-24-18029.executor": "Run",
-    "Python.Task-24-4602.executor": "Run",
-    "Python.Task-26-10107.executor": "Run",
-    "Python.Task-26-14625.executor": "Run",
-    "Python.Task-26-16335.executor": "Run",
-    "Python.Task-26-4604.executor": "Run",
-    "Python.Task-26-4660.executor": "Run",
-    "Python.Task-5-10657.executor": "Run",
-    "Python.Task-5-14327.executor": "Run",
-    "Python.Task-5-14328.executor": "Run",
-    "Python.Task-5-14331.executor": "Run",
-    "Python.Task-5-18578.executor": "Run",
+    "Python.Task-23.executor": "Run",
+    "Python.Task-24-17685.executor": "Run",
+    "Python.Task-24-18284.executor": "Run",
+    "Python.Task-24-19254.executor": "Run",
+    "Python.Task-24.executor": "Run",
+    "Python.Task-25-17686.executor": "Run",
+    "Python.Task-25-18298.executor": "Run",
+    "Python.Task-25-18372.executor": "Run",
+    "Python.Task-25-19255.executor": "Run",
+    "Python.Task-25.executor": "Run",
+    "Python.Task-26-17687.executor": "Run",
+    "Python.Task-26-18541.executor": "Run",
+    "Python.Task-26-19256.executor": "Run",
+    "Python.Task-26.executor": "Run",
+    "Python.Task-5-14330.executor": "Run",
+    "Python.Task-5-17668.executor": "Run",
+    "Python.Task-5-18287.executor": "Run",
+    "Python.Task-5-18361.executor": "Run",
     "Python.Task-5-19237.executor": "Run",
-    "Python.Task-5-19874.executor": "Run",
-    "Python.Task-5-9736.executor": "Run",
-    "Python.Task-6-14173.executor": "Run",
-    "Python.Task-6-17519.executor": "Run",
+    "Python.Task-5.executor": "Run",
+    "Python.Task-6-17669.executor": "Run",
+    "Python.Task-6-18311.executor": "Run",
+    "Python.Task-6-18483.executor": "Run",
+    "Python.Task-6-19238.executor": "Run",
+    "Python.Task-6.executor": "Run",
     "Python.Task-8-11292.executor": "Run",
-    "Python.Task-8-12786.executor": "Run",
-    "Python.Task-8-13252.executor": "Run",
-    "Python.Task-8-13298.executor": "Run",
-    "Python.Task-8-17627.executor": "Run",
-    "Python.Task-8-17798.executor": "Run",
-    "Python.Task-8-18049.executor": "Run",
-    "Python.Task-8-18974.executor": "Run",
+    "Python.Task-8-17671.executor": "Run",
+    "Python.Task-8-18260.executor": "Run",
+    "Python.Task-8-18484.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
+    "Python.Task-8-1927.executor": "Run",
+    "Python.Task-8-19753.executor": "Run",
     "Python.Task-8-5300.executor": "Run",
-    "Python.Task-8-6985.executor": "Run",
+    "Python.Task-8-5553.executor": "Run",
     "Python.Task-8-9363.executor": "Run",
-    "Python.Task-8-randomhz.executor": "Run",
     "Python.Task-8.executor": "Run",
-    "Python.Task-9-10910.executor": "Run",
+    "Python.Task-9-17672.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/AMamedov/Desktop/ege/14-02-25"
+    "last_opened_file_path": "C:/Users/aziz0/Documents/Main/ege/ДЗ/ДЗ-14-02-25/txt",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\AMamedov\Desktop\ege\14-02-25" />
-      <recent name="C:\Users\AMamedov\Desktop\ege\14-02-25\txt" />
-      <recent name="C:\Users\AMamedov\Desktop\ege\11-02-25\txt" />
-      <recent name="C:\Users\AMamedov\Desktop\ege\01-02-25-Sat\txt" />
-      <recent name="C:\Users\AMamedov\Desktop\ege\01-02-25-Sat" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-14-02-25\txt" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\ФИПИ2025 Вариант 3\txt" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\ФИПИ2025 Вариант 3" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25066404 Вариант 5\txt" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа\txt" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\AMamedov\Desktop\ege\14-02-25\txt" />
-      <recent name="C:\Users\AMamedov\Desktop\ege\14-02-25" />
-      <recent name="C:\Users\AMamedov\Desktop\ege\01-02-25-Sat\txt" />
-      <recent name="C:\Users\AMamedov\Desktop\ege\31-01-25" />
-      <recent name="C:\Users\AMamedov\Desktop\ege\21-01-25" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-14-02-25" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25066404 Вариант 5" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\другое\КИМ №25057665 - дз школа\txt" />
+      <recent name="C:\Users\aziz0\Documents\Main\ege\ДЗ\ДЗ-24-01-25" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6fc9f0f0-b784-4f97-b159-70a025f6e8c4" name="Changes" comment="" />
-      <created>1735057116939</created>
+      <changelist id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="" />
+      <created>1735837639859</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1735057116939</updated>
+      <updated>1735837639859</updated>
     </task>
-    <task id="LOCAL-00070" summary="Задание-15 №12247&#10;https://kompege.ru/variant?kim=25077882">
+    <task id="LOCAL-00128" summary="Задание-15 №18489&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
-      <created>1737739703885</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
+      <created>1738498333276</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
       <option name="project" value="LOCAL" />
-      <updated>1737739703885</updated>
+      <updated>1738498333276</updated>
     </task>
-    <task id="LOCAL-00071" summary="Задание-15 №12483&#10;https://kompege.ru/variant?kim=25077882">
+    <task id="LOCAL-00129" summary="Задание-16 №18490&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
-      <created>1737739878431</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
+      <created>1738498629106</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
       <option name="project" value="LOCAL" />
-      <updated>1737739878431</updated>
+      <updated>1738498629106</updated>
     </task>
-    <task id="LOCAL-00072" summary="Задание-15 №14353&#10;https://kompege.ru/variant?kim=25077882">
+    <task id="LOCAL-00130" summary="Задание-17 №18368&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
-      <created>1737740182254</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
+      <created>1738499099219</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
       <option name="project" value="LOCAL" />
-      <updated>1737740182254</updated>
+      <updated>1738499099219</updated>
     </task>
-    <task id="LOCAL-00073" summary="Задание-15 №14658&#10;https://kompege.ru/variant?kim=25077882">
+    <task id="LOCAL-00131" summary="Задание-18 №18369&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
-      <created>1737740393205</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
+      <created>1738499876448</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
       <option name="project" value="LOCAL" />
-      <updated>1737740393205</updated>
+      <updated>1738499876448</updated>
     </task>
-    <task id="LOCAL-00074" summary="commit">
+    <task id="LOCAL-00132" summary="Задания-19-21 №18370&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
-      <created>1738080376483</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
+      <created>1738500634164</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
       <option name="project" value="LOCAL" />
-      <updated>1738080376483</updated>
+      <updated>1738500634164</updated>
     </task>
-    <task id="LOCAL-00075" summary="commit">
+    <task id="LOCAL-00133" summary="Задание-22 №18371&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
-      <created>1738080404642</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
+      <created>1738500887151</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
       <option name="project" value="LOCAL" />
-      <updated>1738080404642</updated>
+      <updated>1738500887151</updated>
     </task>
-    <task id="LOCAL-00076" summary="Задание-15 №9545 &#10;https://kompege.ru/variant?kim=25078582">
+    <task id="LOCAL-00134" summary="Задание-23 №18491&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
-      <created>1738082040901</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
+      <created>1738501205373</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
       <option name="project" value="LOCAL" />
-      <updated>1738082040901</updated>
+      <updated>1738501205373</updated>
     </task>
-    <task id="LOCAL-00077" summary="Задание-15 №8676&#10;https://kompege.ru/variant?kim=25078582">
+    <task id="LOCAL-00135" summary="Задание-24 №18284&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
-      <created>1738082181413</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
+      <created>1738507704438</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
       <option name="project" value="LOCAL" />
-      <updated>1738082181413</updated>
+      <updated>1738507704438</updated>
     </task>
-    <task id="LOCAL-00078" summary="Задание-6 №14173&#10;https://kompege.ru/variant?kim=25078582">
+    <task id="LOCAL-00136" summary="Задание-25 №18372&#10;Вариант-5 КомпЕГЭ&#10;https://kompege.ru/variant?kim=25066404">
       <option name="closed" value="true" />
-      <created>1738082529363</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
+      <created>1738508310198</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
       <option name="project" value="LOCAL" />
-      <updated>1738082529363</updated>
+      <updated>1738508310198</updated>
     </task>
-    <task id="LOCAL-00079" summary="Задание-8 №18974&#10;https://kompege.ru/variant?kim=25078582">
+    <task id="LOCAL-00137" summary="Задание-15 №18595&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
-      <created>1738082759460</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
+      <created>1738868962199</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
       <option name="project" value="LOCAL" />
-      <updated>1738082759460</updated>
+      <updated>1738868962199</updated>
     </task>
-    <task id="LOCAL-00080" summary="Задание-5 №14331&#10;https://kompege.ru/variant?kim=25078582">
+    <task id="LOCAL-00138" summary="Задание-15 №16833&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
-      <created>1738082991277</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
+      <created>1738869190653</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
       <option name="project" value="LOCAL" />
-      <updated>1738082991277</updated>
+      <updated>1738869190653</updated>
     </task>
-    <task id="LOCAL-00081" summary="Задание-5 №19874&#10;https://kompege.ru/variant?kim=25079395">
+    <task id="LOCAL-00139" summary="Задание-15 №7836&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
-      <created>1738342205389</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
+      <created>1738869354870</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
       <option name="project" value="LOCAL" />
-      <updated>1738342205389</updated>
+      <updated>1738869354870</updated>
     </task>
-    <task id="LOCAL-00082" summary="Задание-8 №18049&#10;https://kompege.ru/variant?kim=25079395">
+    <task id="LOCAL-00140" summary="Задание-15 №4327&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
-      <created>1738342517464</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
+      <created>1738869587640</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
       <option name="project" value="LOCAL" />
-      <updated>1738342517464</updated>
+      <updated>1738869587640</updated>
     </task>
-    <task id="LOCAL-00083" summary="Задание-15 №18140&#10;https://kompege.ru/variant?kim=25079395">
+    <task id="LOCAL-00141" summary="Задание-15 №8677&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
-      <created>1738342662853</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
+      <created>1738869924828</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
       <option name="project" value="LOCAL" />
-      <updated>1738342662853</updated>
+      <updated>1738869924828</updated>
     </task>
-    <task id="LOCAL-00084" summary="Задание-14 №19246&#10;https://kompege.ru/variant?kim=25079395">
+    <task id="LOCAL-00142" summary="Задание-15 №5437&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
-      <created>1738342783822</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
+      <created>1738870533082</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
       <option name="project" value="LOCAL" />
-      <updated>1738342783822</updated>
+      <updated>1738870533082</updated>
     </task>
-    <task id="LOCAL-00085" summary="Задание-9 №17863&#10;https://kompege.ru/variant?kim=25079395">
+    <task id="LOCAL-00143" summary="Задание-8 №9363&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
-      <created>1738343121842</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
+      <created>1738871894751</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
       <option name="project" value="LOCAL" />
-      <updated>1738343121842</updated>
+      <updated>1738871894751</updated>
     </task>
-    <task id="LOCAL-00086" summary="Задание-3 №18171&#10;https://kompege.ru/variant?kim=25079395">
+    <task id="LOCAL-00144" summary="Задание-8 №5553&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
-      <created>1738343342495</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
+      <created>1738872233682</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
       <option name="project" value="LOCAL" />
-      <updated>1738343342495</updated>
+      <updated>1738872233682</updated>
     </task>
-    <task id="LOCAL-00087" summary="commit">
+    <task id="LOCAL-00145" summary="Задание-8 №5300&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
-      <created>1738346416704</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
+      <created>1738872492265</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
       <option name="project" value="LOCAL" />
-      <updated>1738346416704</updated>
+      <updated>1738872492265</updated>
     </task>
-    <task id="LOCAL-00088" summary="Задание-26 №10107&#10;Суббота">
+    <task id="LOCAL-00146" summary="Задание-8 №5300&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
-      <created>1738423678926</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
+      <created>1738872880556</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
       <option name="project" value="LOCAL" />
-      <updated>1738423678926</updated>
+      <updated>1738872880556</updated>
     </task>
-    <task id="LOCAL-00089" summary="Задание-8 №13252&#10;https://kompege.ru/variant?kim=25080153">
+    <task id="LOCAL-00147" summary="Задание-1 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738686006414</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
+      <created>1739090668622</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
       <option name="project" value="LOCAL" />
-      <updated>1738686006414</updated>
+      <updated>1739090668622</updated>
     </task>
-    <task id="LOCAL-00090" summary="Задание-8 №12786&#10;https://kompege.ru/variant?kim=25080153">
+    <task id="LOCAL-00148" summary="Задание-2 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738686158098</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
+      <created>1739090903802</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
       <option name="project" value="LOCAL" />
-      <updated>1738686158098</updated>
+      <updated>1739090903802</updated>
     </task>
-    <task id="LOCAL-00091" summary="Задание-5 №14328&#10;https://kompege.ru/variant?kim=25080153">
+    <task id="LOCAL-00149" summary="Задание-3 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738686374652</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
+      <created>1739091245052</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
       <option name="project" value="LOCAL" />
-      <updated>1738686374652</updated>
+      <updated>1739091245052</updated>
     </task>
-    <task id="LOCAL-00092" summary="Задание-14 №14342&#10;https://kompege.ru/variant?kim=25080153">
+    <task id="LOCAL-00150" summary="Задание-5 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738686555214</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
+      <created>1739091373313</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
       <option name="project" value="LOCAL" />
-      <updated>1738686555214</updated>
+      <updated>1739091373313</updated>
     </task>
-    <task id="LOCAL-00093" summary="Задание-15 №18971&#10;https://kompege.ru/variant?kim=25080153">
+    <task id="LOCAL-00151" summary="Задание-6 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738686667643</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
+      <created>1739091655406</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
       <option name="project" value="LOCAL" />
-      <updated>1738686667643</updated>
+      <updated>1739091655406</updated>
     </task>
-    <task id="LOCAL-00094" summary="Задание-15 №18971&#10;https://kompege.ru/variant?kim=25080153">
+    <task id="LOCAL-00152" summary="Задание-8 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738687341368</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
+      <created>1739091912064</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
       <option name="project" value="LOCAL" />
-      <updated>1738687341368</updated>
+      <updated>1739091912064</updated>
     </task>
-    <task id="LOCAL-00095" summary="Задание-15 №746&#10;https://kompege.ru/variant?kim=25080153">
+    <task id="LOCAL-00153" summary="Задание-9 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738688875639</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
+      <created>1739092431417</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
       <option name="project" value="LOCAL" />
-      <updated>1738688875639</updated>
+      <updated>1739092431417</updated>
     </task>
-    <task id="LOCAL-00096" summary="Задание-15 №747&#10;https://kompege.ru/variant?kim=25080153">
+    <task id="LOCAL-00154" summary="Задание-10 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738689118114</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
+      <created>1739092906544</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
       <option name="project" value="LOCAL" />
-      <updated>1738689118114</updated>
+      <updated>1739092906544</updated>
     </task>
-    <task id="LOCAL-00097" summary="Задание-15 №753&#10;Шаблон на все 15 с отрезками&#10;https://kompege.ru/variant?kim=25080153">
+    <task id="LOCAL-00155" summary="commit">
       <option name="closed" value="true" />
-      <created>1738690491843</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
+      <created>1739092956171</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
       <option name="project" value="LOCAL" />
-      <updated>1738690491843</updated>
+      <updated>1739092956171</updated>
     </task>
-    <task id="LOCAL-00098" summary="Задание-15 №1013&#10;https://kompege.ru/variant?kim=25080153">
+    <task id="LOCAL-00156" summary="Задание-10 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738690718564</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
+      <created>1739093042356</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
       <option name="project" value="LOCAL" />
-      <updated>1738690718564</updated>
+      <updated>1739093042356</updated>
     </task>
-    <task id="LOCAL-00099" summary="commit">
+    <task id="LOCAL-00157" summary="Задание-12 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738944191482</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
+      <created>1739093178594</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
       <option name="project" value="LOCAL" />
-      <updated>1738944191482</updated>
+      <updated>1739093178594</updated>
     </task>
-    <task id="LOCAL-00100" summary="commit">
+    <task id="LOCAL-00158" summary="Задание-13 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738945104825</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
+      <created>1739093501617</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
       <option name="project" value="LOCAL" />
-      <updated>1738945104825</updated>
+      <updated>1739093501617</updated>
     </task>
-    <task id="LOCAL-00101" summary="commit">
+    <task id="LOCAL-00159" summary="Задание-14 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738945400741</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
+      <created>1739093609821</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
       <option name="project" value="LOCAL" />
-      <updated>1738945400741</updated>
+      <updated>1739093609821</updated>
     </task>
-    <task id="LOCAL-00102" summary="Задание-1 №17664&#10;https://kompege.ru/variant?kim=25080912">
+    <task id="LOCAL-00160" summary="Задание-15 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738946088757</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
+      <created>1739093760816</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
       <option name="project" value="LOCAL" />
-      <updated>1738946088757</updated>
+      <updated>1739093760816</updated>
     </task>
-    <task id="LOCAL-00103" summary="Задание-2 №14651&#10;https://kompege.ru/variant?kim=25080912">
+    <task id="LOCAL-00161" summary="Задание-16 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738946239770</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
+      <created>1739093859809</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
       <option name="project" value="LOCAL" />
-      <updated>1738946239770</updated>
+      <updated>1739093859809</updated>
     </task>
-    <task id="LOCAL-00104" summary="Задание-12 №18579&#10;https://kompege.ru/variant?kim=25080912">
+    <task id="LOCAL-00162" summary="Задание-17 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738946459794</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
+      <created>1739094144348</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
       <option name="project" value="LOCAL" />
-      <updated>1738946459794</updated>
+      <updated>1739094144348</updated>
     </task>
-    <task id="LOCAL-00105" summary="Задание-15 №11665&#10;https://kompege.ru/variant?kim=25080912">
+    <task id="LOCAL-00163" summary="Задание-18 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738946580721</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
+      <created>1739094401315</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
       <option name="project" value="LOCAL" />
-      <updated>1738946580721</updated>
+      <updated>1739094401315</updated>
     </task>
-    <task id="LOCAL-00106" summary="Задание-15 №11665&#10;https://kompege.ru/variant?kim=25080912">
+    <task id="LOCAL-00164" summary="Задания-19-21 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738946778410</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
+      <created>1739095768633</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
       <option name="project" value="LOCAL" />
-      <updated>1738946778410</updated>
+      <updated>1739095768633</updated>
     </task>
-    <task id="LOCAL-00107" summary="Задание-15 №11665&#10;https://kompege.ru/variant?kim=25080912">
+    <task id="LOCAL-00165" summary="Задания-22 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1738946817956</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
+      <created>1739096133941</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
       <option name="project" value="LOCAL" />
-      <updated>1738946817956</updated>
+      <updated>1739096133941</updated>
     </task>
-    <task id="LOCAL-00108" summary="Задание-17 №4597&#10;https://kompege.ru/variant?kim=25081650">
+    <task id="LOCAL-00166" summary="Задания-23 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1739290312370</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
+      <created>1739096239844</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
       <option name="project" value="LOCAL" />
-      <updated>1739290312370</updated>
+      <updated>1739096239844</updated>
     </task>
-    <task id="LOCAL-00109" summary="Задание-17 №4622&#10;https://kompege.ru/variant?kim=25081650">
+    <task id="LOCAL-00167" summary="Задания-24 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1739290963951</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
+      <created>1739097056006</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
       <option name="project" value="LOCAL" />
-      <updated>1739290963951</updated>
+      <updated>1739097056006</updated>
     </task>
-    <task id="LOCAL-00110" summary="Задание-17 №9748&#10;https://kompege.ru/variant?kim=25081650">
+    <task id="LOCAL-00168" summary="Задания-25 ФИПИ2025 Вариант-3">
       <option name="closed" value="true" />
-      <created>1739291268448</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
+      <created>1739097475836</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
       <option name="project" value="LOCAL" />
-      <updated>1739291268448</updated>
+      <updated>1739097475836</updated>
     </task>
-    <task id="LOCAL-00111" summary="Задание-17 №9786&#10;https://kompege.ru/variant?kim=25081650">
+    <task id="LOCAL-00169" summary="Задание-17 №17873">
       <option name="closed" value="true" />
-      <created>1739292566842</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
+      <created>1739537741348</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
       <option name="project" value="LOCAL" />
-      <updated>1739292566842</updated>
+      <updated>1739537741348</updated>
     </task>
-    <task id="LOCAL-00112" summary="Задание-17 №9840&#10;https://kompege.ru/variant?kim=25081650">
+    <task id="LOCAL-00170" summary="Задание-17 №17873 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654">
       <option name="closed" value="true" />
-      <created>1739292982514</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
+      <created>1739537783528</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
       <option name="project" value="LOCAL" />
-      <updated>1739292982514</updated>
+      <updated>1739537783528</updated>
     </task>
-    <task id="LOCAL-00113" summary="Задание-17 №17530&#10;https://kompege.ru/variant?kim=25081650">
+    <task id="LOCAL-00171" summary="Задание-17 №17873 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654">
       <option name="closed" value="true" />
-      <created>1739293304312</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
+      <created>1739538077328</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
       <option name="project" value="LOCAL" />
-      <updated>1739293304312</updated>
+      <updated>1739538077328</updated>
     </task>
-    <task id="LOCAL-00114" summary="Задание-17 №175558&#10;https://kompege.ru/variant?kim=25081650">
+    <task id="LOCAL-00172" summary="Задание-17 №4705 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654">
       <option name="closed" value="true" />
-      <created>1739293745275</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
+      <created>1739538295067</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
       <option name="project" value="LOCAL" />
-      <updated>1739293745275</updated>
+      <updated>1739538295067</updated>
     </task>
-    <task id="LOCAL-00115" summary="Задание-17 №17636&#10;https://kompege.ru/variant?kim=25081650">
+    <task id="LOCAL-00173" summary="Задание-15 №18175 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654">
       <option name="closed" value="true" />
-      <created>1739294059032</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
+      <created>1739538422649</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
       <option name="project" value="LOCAL" />
-      <updated>1739294059032</updated>
+      <updated>1739538422649</updated>
     </task>
-    <task id="LOCAL-00116" summary="Задание-17 №17680&#10;https://kompege.ru/variant?kim=25081650">
+    <task id="LOCAL-00174" summary="Задание-15 №1320 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654">
       <option name="closed" value="true" />
-      <created>1739294309803</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
+      <created>1739538780273</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
       <option name="project" value="LOCAL" />
-      <updated>1739294309803</updated>
+      <updated>1739538780273</updated>
     </task>
-    <task id="LOCAL-00117" summary="Задание-17 №9993&#10;https://kompege.ru/variant?kim=25081650">
+    <task id="LOCAL-00175" summary="Задание-8 №19753 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654">
       <option name="closed" value="true" />
-      <created>1739296316036</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
+      <created>1739539336054</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
       <option name="project" value="LOCAL" />
-      <updated>1739296316036</updated>
+      <updated>1739539336054</updated>
     </task>
-    <task id="LOCAL-00118" summary="Большой тест 1-26, кроме 13, 16, 19-21, 23, 27&#10;https://kompege.ru/variant?kim=25082369">
+    <task id="LOCAL-00176" summary="Задание-8 №1927 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654">
       <option name="closed" value="true" />
-      <created>1739556225987</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
+      <created>1739539564954</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
       <option name="project" value="LOCAL" />
-      <updated>1739556225987</updated>
+      <updated>1739539564958</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -637,31 +599,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание-8 №13252&#10;https://kompege.ru/variant?kim=25080153" />
-    <MESSAGE value="Задание-8 №12786&#10;https://kompege.ru/variant?kim=25080153" />
-    <MESSAGE value="Задание-5 №14328&#10;https://kompege.ru/variant?kim=25080153" />
-    <MESSAGE value="Задание-14 №14342&#10;https://kompege.ru/variant?kim=25080153" />
-    <MESSAGE value="Задание-15 №18971&#10;https://kompege.ru/variant?kim=25080153" />
-    <MESSAGE value="Задание-15 №746&#10;https://kompege.ru/variant?kim=25080153" />
-    <MESSAGE value="Задание-15 №747&#10;https://kompege.ru/variant?kim=25080153" />
-    <MESSAGE value="Задание-15 №753&#10;Шаблон на все 15 с отрезками&#10;https://kompege.ru/variant?kim=25080153" />
-    <MESSAGE value="Задание-15 №1013&#10;https://kompege.ru/variant?kim=25080153" />
-    <MESSAGE value="Задание-1 №17664&#10;https://kompege.ru/variant?kim=25080912" />
-    <MESSAGE value="Задание-2 №14651&#10;https://kompege.ru/variant?kim=25080912" />
-    <MESSAGE value="Задание-12 №18579&#10;https://kompege.ru/variant?kim=25080912" />
-    <MESSAGE value="Задание-15 №11665&#10;https://kompege.ru/variant?kim=25080912" />
-    <MESSAGE value="Задание-17 №4597&#10;https://kompege.ru/variant?kim=25081650" />
-    <MESSAGE value="Задание-17 №4622&#10;https://kompege.ru/variant?kim=25081650" />
-    <MESSAGE value="Задание-17 №9748&#10;https://kompege.ru/variant?kim=25081650" />
-    <MESSAGE value="Задание-17 №9786&#10;https://kompege.ru/variant?kim=25081650" />
-    <MESSAGE value="Задание-17 №9840&#10;https://kompege.ru/variant?kim=25081650" />
-    <MESSAGE value="Задание-17 №17530&#10;https://kompege.ru/variant?kim=25081650" />
-    <MESSAGE value="Задание-17 №175558&#10;https://kompege.ru/variant?kim=25081650" />
-    <MESSAGE value="Задание-17 №17636&#10;https://kompege.ru/variant?kim=25081650" />
-    <MESSAGE value="Задание-17 №17680&#10;https://kompege.ru/variant?kim=25081650" />
-    <MESSAGE value="Задание-17 №9993&#10;https://kompege.ru/variant?kim=25081650" />
+    <MESSAGE value="Задание-5 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-6 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-8 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-9 ФИПИ2025 Вариант-3" />
     <MESSAGE value="commit" />
-    <MESSAGE value="Большой тест 1-26, кроме 13, 16, 19-21, 23, 27&#10;https://kompege.ru/variant?kim=25082369" />
-    <option name="LAST_COMMIT_MESSAGE" value="Большой тест 1-26, кроме 13, 16, 19-21, 23, 27&#10;https://kompege.ru/variant?kim=25082369" />
+    <MESSAGE value="Задание-10 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-12 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-13 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-14 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-15 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-16 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-17 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-18 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задания-19-21 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задания-22 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задания-23 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задания-24 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задания-25 ФИПИ2025 Вариант-3" />
+    <MESSAGE value="Задание-17 №17873" />
+    <MESSAGE value="Задание-17 №17873 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <MESSAGE value="Задание-17 №4705 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <MESSAGE value="Задание-15 №18175 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <MESSAGE value="Задание-15 №1320 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <MESSAGE value="Задание-8 №19753 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <MESSAGE value="Задание-8 №1927 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-8 №1927 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
   </component>
 </project>
