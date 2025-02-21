@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-25 №12255&#10;https://kompege.ru/variant?kim=25083166" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="Задание-25 №14440 мега способ нахождения произведения&#10;https://kompege.ru/variant?kim=25083166" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +124,7 @@
     "Python.Task-24-19254.executor": "Run",
     "Python.Task-24.executor": "Run",
     "Python.Task-25-12255.executor": "Run",
+    "Python.Task-25-14440.executor": "Run",
     "Python.Task-25-17686.executor": "Run",
     "Python.Task-25-17880.executor": "Run",
     "Python.Task-25-18298.executor": "Run",
@@ -203,22 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
-    </task>
-    <task id="LOCAL-00143" summary="Задание-8 №9363&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
-      <option name="closed" value="true" />
-      <created>1738871894751</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1738871894751</updated>
-    </task>
-    <task id="LOCAL-00144" summary="Задание-8 №5553&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
-      <option name="closed" value="true" />
-      <created>1738872233682</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1738872233682</updated>
     </task>
     <task id="LOCAL-00145" summary="Задание-8 №5300&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
@@ -596,7 +581,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739900209192</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="Задание-25 №14440&#10;https://kompege.ru/variant?kim=25083166">
+      <option name="closed" value="true" />
+      <created>1739900523862</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1739900523862</updated>
+    </task>
+    <task id="LOCAL-00193" summary="Задание-25 №14440 мега способ нахождения произведения&#10;https://kompege.ru/variant?kim=25083166">
+      <option name="closed" value="true" />
+      <created>1739900868430</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1739900868430</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -611,8 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задания-23 ФИПИ2025 Вариант-3" />
-    <MESSAGE value="Задания-24 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задания-25 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-17 №17873" />
     <MESSAGE value="Задание-17 №17873 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
@@ -636,6 +635,8 @@
     <MESSAGE value="Задание-25 №9846&#10;https://kompege.ru/variant?kim=25083166" />
     <MESSAGE value="Задание-25 №19255&#10;https://kompege.ru/variant?kim=25083166" />
     <MESSAGE value="Задание-25 №12255&#10;https://kompege.ru/variant?kim=25083166" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание-25 №12255&#10;https://kompege.ru/variant?kim=25083166" />
+    <MESSAGE value="Задание-25 №14440&#10;https://kompege.ru/variant?kim=25083166" />
+    <MESSAGE value="Задание-25 №14440 мега способ нахождения произведения&#10;https://kompege.ru/variant?kim=25083166" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание-25 №14440 мега способ нахождения произведения&#10;https://kompege.ru/variant?kim=25083166" />
   </component>
 </project>
