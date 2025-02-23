@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="ДЗ-Вариант Для хорошего настроения РНО&#10;https://inf-ege.sdamgia.ru/test?id=15469830" />
+    <list default="true" id="8993435c-830c-48ea-8de5-183022ab6870" name="Changes" comment="ДЗ-Вариант Для хорошего настроения&#10;https://inf-ege.sdamgia.ru/test?id=15469830">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-19-21.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-19-21.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ/ДЗ-18-02-25/Task-8.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,6 +212,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735837639859</updated>
+    </task>
+    <task id="LOCAL-00145" summary="Задание-8 №5300&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738872492265</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1738872492265</updated>
     </task>
     <task id="LOCAL-00146" summary="Задание-8 №5300&#10;ДЗ-07-02-25&#10;https://kompege.ru/variant?kim=25080370">
       <option name="closed" value="true" />
@@ -589,15 +605,7 @@
       <option name="project" value="LOCAL" />
       <updated>1739656655126</updated>
     </task>
-    <task id="LOCAL-00194" summary="ДЗ-Вариант Для хорошего настроения РНО&#10;https://inf-ege.sdamgia.ru/test?id=15469830">
-      <option name="closed" value="true" />
-      <created>1739723417956</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1739723417956</updated>
-    </task>
-    <option name="localTasksCounter" value="195" />
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,6 +620,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задания-25 ФИПИ2025 Вариант-3" />
     <MESSAGE value="Задание-17 №17873" />
     <MESSAGE value="Задание-17 №17873 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
     <MESSAGE value="Задание-17 №4705 ДЗ-14-02-2025 https://kompege.ru/variant?kim=25081654" />
@@ -636,7 +645,6 @@
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-15" />
     <MESSAGE value="Задание-24 ФИПИ2025 Вариант-16" />
     <MESSAGE value="ДЗ-Вариант Для хорошего настроения&#10;https://inf-ege.sdamgia.ru/test?id=15469830" />
-    <MESSAGE value="ДЗ-Вариант Для хорошего настроения РНО&#10;https://inf-ege.sdamgia.ru/test?id=15469830" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ-Вариант Для хорошего настроения РНО&#10;https://inf-ege.sdamgia.ru/test?id=15469830" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ-Вариант Для хорошего настроения&#10;https://inf-ege.sdamgia.ru/test?id=15469830" />
   </component>
 </project>
