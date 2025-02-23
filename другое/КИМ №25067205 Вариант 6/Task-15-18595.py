@@ -1,0 +1,15 @@
+from itertools import combinations
+
+def f(x):
+    c = 48 <= x <= 94
+    j = 83 <= x <= 100
+    a = a1 <= x <= a2
+    return (not(c or j)) <= (not a)
+
+ans = []
+line = [i + eps for i in range(47, 101) for eps in [0, 0.1, 0.9]]
+
+for a1, a2 in combinations(line, 2):
+    if all(f(x) for x in line):
+        ans.append(a2-a1)
+print(max(ans))
