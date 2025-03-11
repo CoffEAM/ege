@@ -44,3 +44,12 @@ for i in range(10, 2025):
 
 print(f(2024) - f(2021))
 
+'''Задание 23'''
+def f(current, end):
+    if current == end:
+        return 1
+    if current > end:
+        return 0
+    return f(current + 2, end) + f(current + 1, end) + f(current*2, end)
+
+print(f(7, 10))
