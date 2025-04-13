@@ -5,7 +5,7 @@ def f(x):
     p = 5 <= x <= 30
     q = 14 <= x <= 23
     a = a1 <= x <= a2
-    return (x == q) <= (not a)
+    return (p == q) <= (not a)
 
 ans = []
 line = [i + eps for i in range(4, 31) for eps in [0, 0.1, 0.9]]
