@@ -9,6 +9,6 @@ def f(x, y, s):
     ]
     return any(h) if (s - 1) % 2 == 0 else all(h)
 
-print([s for s in range(1, 74) if f(7, s, 2)]) #19
+print(*[s for s in range(1, 74) if f(7, s, 2)]) # 19
 print(*[s for s in range(1, 74) if f(7, s, 3) and not f(7, s, 1)][:2])
 print(*[s for s in range(1, 74) if f(7, s, 4) and not f(7, s, 2)])
