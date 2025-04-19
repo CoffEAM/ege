@@ -25,7 +25,7 @@ with open('input.txt') as file:
 st = st.replace('CD', 'C*D')  # Замена требуемой последовательности
 st = st.split('*')
 ans = 0
-for i in range(len(st) - 161):  # 161 при требуемых 160
+for i in range(len(st) - 160):
     ans = max(ans, len(''.join(st[i:i + 161])))
 
 
