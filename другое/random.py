@@ -1,9 +1,13 @@
-from itertools import *
+from itertools import permutations
 
-ans = 0
-for i in range(1, 11):
-    for num in permutations('0123456789', i):
-        num = ''.join(num)
-        if num[0] != '0' and int(num) % 5 == 0:
-            ans += 1
-print(ans)
+def f(x, y, z):
+    return (x <= (not z)) and ((not y) <= x)
+
+table = [
+    (0,1,0),
+    (1,1,0)
+]
+for p in permutations('xyz'):
+    u = [f(**dict(zip(p, t))) for t in table] == [0, 1]
+    if u:
+        print(*p)
