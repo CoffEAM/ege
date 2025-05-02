@@ -13,6 +13,14 @@ def d(num):
             return '0'
     return False
 
-u = [2**i for i in range(1, 50)]
 
-print(d(3145728))
+u = [2**i for i in range(1, 50)]
+cnt = 0
+for i in range(10**6, 10**12+1):
+    if i % 2 == 0:
+        y = d(i)
+        if y:
+            print(i, y)
+            cnt += 1
+            if cnt == 5:
+                break
