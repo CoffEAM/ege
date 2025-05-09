@@ -43,6 +43,5 @@ while data:
     clusters.append(cluster)
 
 centers = [centroid(cl) for cl in clusters]
-p_x = sum(c[0] for c in centers) / 6
-p_y = sum(c[1] for c in centers) / 6
-print(int(abs(p_x * 10000)), int(abs(p_y * 10000)))
+p_x = sum(c[0] for c in centers) / 2
+p_y = sum(c[1] for c in centers) / 2
