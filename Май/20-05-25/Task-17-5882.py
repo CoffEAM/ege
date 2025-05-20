@@ -11,6 +11,6 @@ for i in range(len(data) - 1):
 u = sum(int(i)**2 for i in str(abs(min(ans))))
 ans = []
 for i in data:
-    if '3' in str(data) and i >= u:
+    if '3' in str(i) and i >= u:
         ans.append(i)
 print(len(ans), min(ans))
