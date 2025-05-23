@@ -1,7 +1,7 @@
 from itertools import product
 
-for pos, num in enumerate(product('0123456789', repeat=5), start=1):
-    num = ''.join(num)
+for pos, num in enumerate(range(10000, 100000), start=1):
+    num = str(num)
     if num[0] != '0':
         for i in '02468':
             num = num.replace(i, '*')
