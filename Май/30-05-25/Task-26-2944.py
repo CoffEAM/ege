@@ -5,11 +5,12 @@ with open('txt/26_2944.txt') as file:
 summ = []
 data = sorted(data)
 for i in data:
-    if sum(summ) + i <= S:
+    if i <= S:
+        S -= i
         summ.append(i)
-print(len(summ))
-summ.remove(max(summ))
+S += summ.pop()
 for i in data[::-1]:
-    if sum(summ) + i <= S:
-        print(i)
+    if i <= S:
+        summ.append(i)
         break
+print(len(summ), summ[-1])
