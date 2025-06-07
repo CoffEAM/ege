@@ -1,16 +1,10 @@
 with open('txt/26_10107.txt') as file:
     n = int(file.readline())
-    times = [list(map(int, i.split())) for i in file]
+    events = [list(map(int, i.split())) for i in file]
 
-times = sorted(times, key=lambda x: (x[1], -x[0]))
-approved = [times[0]]
-for time in times:
-    if approved[-1][1] <= time[0]:
-        approved.append(time)
-times = sorted(times, key=lambda x: -x[0])
-approved.remove(approved[-1])
-for time in times:
-    if approved[-1][1] <= time[0]:
-        approved.append(time)
-        break
+events = sorted(events, key=lambda x: (x[1], -x[0]))
+approved = [events[0]]
+for i in events:
+    if approved[-1][1] <= i[0]:
+        approved.append(i)
 print(len(approved), approved[-1][0] - approved[-2][1])
