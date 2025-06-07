@@ -3,18 +3,17 @@ with open('txt/26_17565.txt') as file:
     candidates = []
     for i in file:
         arr = list(map(int, i.split()))
-        arr.append(sum(arr[1:]))
+        summ = sum(arr[1:-1])
+        arr.append(summ)
         candidates.append(arr)
-
 candidates = sorted(candidates, key=lambda x: (-x[-1], -x[-2], x[0]))
-print(candidates)
 approved = []
-for candidate in candidates:
+for i in candidates:
     if s > 0:
-        approved.append(candidate)
+        approved.append(i)
         s -= 1
 ans = 0
-for candidate in candidates:
-    if candidate[-1] == 159:
+for i in candidates:
+    if i[-1] == 154:
         ans += 1
-print(approved[-1], ans)
+print(ans)
