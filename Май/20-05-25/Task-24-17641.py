@@ -10,7 +10,7 @@ ans = 0
 for i in res:
     if eval(i) == 0:
         ans = max(ans, len(i))
-    else:
+    elif len(i) > ans:
         for j in range(len(i) + 1):
             for k in range(len(i), j, -1):
                 s = i[j:k].strip('+*')
